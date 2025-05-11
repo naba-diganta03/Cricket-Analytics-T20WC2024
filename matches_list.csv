@@ -1,0 +1,56 @@
+Date,Match ID,Result,Team 1,Team 2,Stadium,City,Team 1 Score,Team 1 Wickets,Team 1 Overs Faced,Team 2 Score,Team 2 Wickets,Team 2 Overs Faced
+"Sun, 02 Jun 2024",87500,United States won by 7 wkts,UNITED STATES OF AMERICA,CANADA,Grand Prairie Stadium,Dallas,197,3,17.4,194,5,20
+"Sun, 02 Jun 2024",87507,West Indies won by 5 wkts,WEST INDIES,PAPUA NEW GUINEA,Providence Stadium,Guyana,137,5,19,136,8,20
+"Mon, 03 Jun 2024",87514,Match tied (Namibia won the super over),NAMIBIA,OMAN,Kensington Oval,"Bridgetown, Barbados",109,6,20,109,10,19.4
+"Mon, 03 Jun 2024",87521,South Africa won by 6 wkts,SRI LANKA,SOUTH AFRICA,Nassau County International Cricket Stadium,New York,77,10,19.1,80,4,16.2
+"Tue, 04 Jun 2024",87528,Afghanistan won by 125 runs,AFGHANISTAN,UGANDA,Providence Stadium,Guyana,183,5,20,58,10,16
+"Tue, 04 Jun 2024",87535,No result,ENGLAND,SCOTLAND,Kensington Oval,"Bridgetown, Barbados",null,null,null,90,null,10
+"Tue, 04 Jun 2024",87542,Netherlands won by 6 wkts,NETHERLANDS,NEPAL,Grand Prairie Stadium,Dallas,109,4,18.4,106,10,19.2
+"Wed, 05 Jun 2024",87549,India won by 8 wkts,INDIA,IRELAND,Nassau County International Cricket Stadium,New York,97,2,12.2,96,10,16
+"Thu, 06 Jun 2024",87556,Uganda won by 3 wkts,PAPUA NEW GUINEA,UGANDA,Providence Stadium,Guyana,77,10,19.1,78,7,18.2
+"Thu, 06 Jun 2024",87563,Australia won by 39 runs,AUSTRALIA,OMAN,Kensington Oval,"Bridgetown, Barbados",164,5,20,125,9,20
+"Thu, 06 Jun 2024",87570,Match tied (United States won the super over),UNITED STATES OF AMERICA,PAKISTAN,Grand Prairie Stadium,Dallas,159,3,20,159,7,20
+"Fri, 07 Jun 2024",87577,Scotland won by 5 wkts,NAMIBIA,SCOTLAND,Kensington Oval,"Bridgetown, Barbados",155,9,20,157,5,18.3
+"Fri, 07 Jun 2024",87584,Canada won by 12 runs,CANADA,IRELAND,Nassau County International Cricket Stadium,New York,137,7,20,125,7,20
+"Sat, 08 Jun 2024",87591,Afghanistan won by 84 runs,NEW ZEALAND,AFGHANISTAN,Providence Stadium,Guyana,75,10,15.2,159,6,20
+"Sat, 08 Jun 2024",87598,Bangladesh won by 2 wkts,SRI LANKA,BANGLADESH,Grand Prairie Stadium,Dallas,124,9,20,125,8,19
+"Sat, 08 Jun 2024",87605,South Africa won by 4 wkts,NETHERLANDS,SOUTH AFRICA,Nassau County International Cricket Stadium,New York,103,9,20,106,6,18.5
+"Sat, 08 Jun 2024",87612,Australia won by 36 runs,AUSTRALIA,ENGLAND,Kensington Oval,"Bridgetown, Barbados",201,7,20,165,6,20
+"Sun, 09 Jun 2024",87619,West Indies won by 134 runs,WEST INDIES,UGANDA,Providence Stadium,Guyana,173,5,20,39,10,12
+"Sun, 09 Jun 2024",87626,India won by 6 runs,INDIA,PAKISTAN,Nassau County International Cricket Stadium,New York,119,10,19,113,7,20
+"Sun, 09 Jun 2024",87633,Scotland won by 7 wkts,OMAN,SCOTLAND,Sir Vivian Richards Stadium,"North Sound, Antigua",150,7,20,153,3,13.1
+"Mon, 10 Jun 2024",87640,South Africa won by 4 runs,SOUTH AFRICA,BANGLADESH,Nassau County International Cricket Stadium,New York,113,6,20,109,7,20
+"Tue, 11 Jun 2024",87647,Pakistan won by 7 wkts,PAKISTAN,CANADA,Nassau County International Cricket Stadium,New York,107,3,17.3,106,7,20
+"Wed, 12 Jun 2024",87654,Match abandoned due to rain,SRI LANKA,NEPAL,Central Broward Regional Park Stadium Turf Ground,"Lauderhill, Florida",null,null,null,null,null,null
+"Wed, 12 Jun 2024",87661,Australia won by 9 wkts,AUSTRALIA,NAMIBIA,Sir Vivian Richards Stadium,"North Sound, Antigua",74,1,5.4,72,10,17
+"Wed, 12 Jun 2024",87668,India won by 7 wkts,UNITED STATES OF AMERICA,INDIA,Nassau County International Cricket Stadium,New York,110,8,20,111,3,18.2
+"Thu, 13 Jun 2024",87675,West Indies won by 13 runs,WEST INDIES,NEW ZEALAND,Brian Lara Stadium,"Tarouba, Trinidad",149,9,20,136,9,20
+"Thu, 13 Jun 2024",87689,Bangladesh won by 25 runs,BANGLADESH,NETHERLANDS,Arnos Vale Ground,"Kingstown, St Vincent",159,5,20,134,8,20
+"Fri, 14 Jun 2024",87682,England won by 8 wkts,ENGLAND,OMAN,Sir Vivian Richards Stadium,"North Sound, Antigua",50,2,3.1,47,10,13.2
+"Fri, 14 Jun 2024",87696,Afghanistan won by 7 wkts,AFGHANISTAN,PAPUA NEW GUINEA,Brian Lara Stadium,"Tarouba, Trinidad",101,3,15.1,95,10,19.5
+"Fri, 14 Jun 2024",87703,Match abandoned due to rain,UNITED STATES OF AMERICA,IRELAND,Central Broward Regional Park Stadium Turf Ground,"Lauderhill, Florida",null,null,null,null,null,null
+"Sat, 15 Jun 2024",87710,South Africa won by 1 run,SOUTH AFRICA,NEPAL,Arnos Vale Ground,"Kingstown, St Vincent",115,7,20,114,7,20
+"Sat, 15 Jun 2024",87717,New Zealand won by 9 wkts,NEW ZEALAND,UGANDA,Brian Lara Stadium,"Tarouba, Trinidad",41,1,5.2,40,10,18.4
+"Sat, 15 Jun 2024",87724,Match abandoned due to wet outfield (no toss),INDIA,CANADA,Central Broward Regional Park Stadium Turf Ground,"Lauderhill, Florida",null,null,null,null,null,null
+"Sat, 15 Jun 2024",87731,England won by 41 runs (DLS method),NAMIBIA,ENGLAND,Sir Vivian Richards Stadium,"North Sound, Antigua",84,3,10,122,5,10
+"Sun, 16 Jun 2024",87738,Australia won by 5 wkts,AUSTRALIA,SCOTLAND,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",186,5,19.4,180,5,20
+"Sun, 16 Jun 2024",87745,Pakistan won by 3 wkts,PAKISTAN,IRELAND,Central Broward Regional Park Stadium Turf Ground,"Lauderhill, Florida",111,7,18.5,106,9,20
+"Mon, 17 Jun 2024",87752,Bangladesh won by 21 runs,BANGLADESH,NEPAL,Arnos Vale Ground,"Kingstown, St Vincent",106,10,19.3,85,10,19.2
+"Mon, 17 Jun 2024",87759,Sri Lanka won by 83 runs,SRI LANKA,NETHERLANDS,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",201,6,20,118,10,16.4
+"Mon, 17 Jun 2024",87766,New Zealand won by 7 wkts,NEW ZEALAND,PAPUA NEW GUINEA,Brian Lara Stadium,"Tarouba, Trinidad",79,3,12.2,78,10,19.4
+"Tue, 18 Jun 2024",87773,West Indies won by 104 runs,WEST INDIES,AFGHANISTAN,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",218,5,20,114,10,16.2
+"Wed, 19 Jun 2024",87780,South Africa won by 18 runs,UNITED STATES OF AMERICA,SOUTH AFRICA,Sir Vivian Richards Stadium,"North Sound, Antigua",176,6,20,194,4,20
+"Thu, 20 Jun 2024",87787,England won by 8 wkts,ENGLAND,WEST INDIES,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",181,2,17.3,180,4,20
+"Thu, 20 Jun 2024",87794,India won by 47 runs,AFGHANISTAN,INDIA,Kensington Oval,"Bridgetown, Barbados",134,10,20,181,8,20
+"Fri, 21 Jun 2024",87801,Australia won by 28 runs (DLS Method),AUSTRALIA,BANGLADESH,Sir Vivian Richards Stadium,"North Sound, Antigua",100,2,11.2,140,8,20
+"Fri, 21 Jun 2024",87808,South Africa won by 7 runs,ENGLAND,SOUTH AFRICA,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",156,6,20,163,6,20
+"Sat, 22 Jun 2024",87815,West Indies won by 9 wkts,UNITED STATES OF AMERICA,WEST INDIES,Kensington Oval,"Bridgetown, Barbados",128,10,19.5,130,1,10.5
+"Sat, 22 Jun 2024",87822,India won by 50 runs,INDIA,BANGLADESH,Sir Vivian Richards Stadium,"North Sound, Antigua",196,5,20,146,8,20
+"Sun, 23 Jun 2024",87829,Afghanistan won by 21 runs,AFGHANISTAN,AUSTRALIA,Arnos Vale Ground,"Kingstown, St Vincent",148,6,20,127,10,19.2
+"Sun, 23 Jun 2024",87836,England won by 10 wkts,UNITED STATES OF AMERICA,ENGLAND,Kensington Oval,"Bridgetown, Barbados",115,10,18.5,117,null,9.4
+"Mon, 24 Jun 2024",87843,South Africa won by 3 wkts - 2nd inns reduced to 17 overs - Target 123 (DLS method) ,WEST INDIES,SOUTH AFRICA,Sir Vivian Richards Stadium,"North Sound, Antigua",135,8,20,124,7,16.1
+"Mon, 24 Jun 2024",87850,India won by 24 runs,AUSTRALIA,INDIA,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",181,7,20,205,5,20
+"Tue, 25 Jun 2024",87857,"Afghanistan won by 8 runs (Match reduced to 19 Ovs due to rain, DLS Target 114)",AFGHANISTAN,BANGLADESH,Arnos Vale Ground,"Kingstown, St Vincent",115,5,20,105,10,17.5
+"Thu, 27 Jun 2024",87864,South Africa won by 9 wkts,SOUTH AFRICA,AFGHANISTAN,Brian Lara Stadium,"Tarouba, Trinidad",60,1,8.5,56,10,11.5
+"Thu, 27 Jun 2024",87871,India won by 68 runs,INDIA,ENGLAND,Providence Stadium,Guyana,171,7,20,103,10,16.4
+"Sat, 29 Jun 2024",87878,India won by 7 runs,SOUTH AFRICA,INDIA,Kensington Oval,"Bridgetown, Barbados",169,8,20,176,7,20

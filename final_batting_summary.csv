@@ -1,0 +1,853 @@
+Match ID,Team,Batters,Positions,Runs,Balls,Strike Rate,Fours,Sixes,Dismissal
+87500,Canada,Aaron Johnson,1,23,16,143.75,5,0,1
+87500,Canada,Navneet Dhaliwal,2,61,44,138.64,6,3,1
+87500,Canada,Pargat Singh,3,5,7,71.43,0,0,1
+87500,Canada,Nicholas Kirton,4,51,31,164.52,3,2,1
+87500,Canada,Shreyas Movva,5,32,16,200,2,2,0
+87500,Canada,Dilpreet Singh,6,11,5,220,1,1,1
+87500,Canada,Dillon Heyliger,7,1,1,100,0,0,0
+87500,United States,Steven Taylor,1,0,2,0,0,0,1
+87500,United States,Monank Patel,2,16,16,100,2,0,1
+87500,United States,Andries Gous,3,65,46,141.3,7,3,1
+87500,United States,Aaron Jones,4,94,40,235,4,10,0
+87500,United States,Corey Anderson,5,3,5,60,0,0,0
+87507,Papua New Guinea,Tony Ura,1,2,5,40,0,0,1
+87507,Papua New Guinea,Assad Vala,2,21,22,95.45,2,1,1
+87507,Papua New Guinea,Lega Siaka,3,1,2,50,0,0,1
+87507,Papua New Guinea,Sese Bau,4,50,43,116.28,6,1,1
+87507,Papua New Guinea,Hiri Hiri,5,2,6,33.33,0,0,1
+87507,Papua New Guinea,Charles Amini,6,12,14,85.71,0,0,1
+87507,Papua New Guinea,Kiplin Doriga,7,27,18,150,3,0,0
+87507,Papua New Guinea,Chad Soper,8,10,9,111.11,1,0,1
+87507,Papua New Guinea,Alei Nao,9,0,0,0,0,0,1
+87507,Papua New Guinea,Kabua Morea,10,2,2,100,0,0,0
+87507,West Indies,Brandon King,1,34,29,117.24,7,0,1
+87507,West Indies,Johnson Charles,2,0,1,0,0,0,1
+87507,West Indies,Nicholas Pooran,3,27,27,100,1,2,1
+87507,West Indies,Roston Chase,4,42,27,155.56,4,2,0
+87507,West Indies,Rovman Powell,5,15,14,107.14,2,0,1
+87507,West Indies,Sherfane Rutherford,6,2,7,28.57,0,0,1
+87507,West Indies,Andre Russell,7,15,9,166.67,0,1,0
+87514,Oman,Kashyap Prajapati,1,0,1,0,0,0,1
+87514,Oman,Naseem Khushi,2,6,6,100,1,0,1
+87514,Oman,Aqib Ilyas,3,0,1,0,0,0,1
+87514,Oman,Zeeshan Maqsood,4,22,20,110,4,0,1
+87514,Oman,Khalid Kail,5,34,39,87.18,1,1,1
+87514,Oman,Ayaan Khan,6,15,21,71.43,0,1,1
+87514,Oman,Mohammad Nadeem,7,6,10,60,0,0,1
+87514,Oman,Mehran Khan,8,7,8,87.5,1,0,1
+87514,Oman,Shakeel Ahmed,9,11,9,122.22,2,0,1
+87514,Oman,Kaleemullah,10,2,3,66.67,0,0,1
+87514,Oman,Bilal Khan,11,1,1,100,0,0,0
+87514,Namibia,Michael van Lingen,1,0,2,0,0,0,1
+87514,Namibia,Nikolaas Davin,2,24,31,77.42,2,1,1
+87514,Namibia,Jan Frylinck,3,45,48,93.75,6,0,1
+87514,Namibia,Gerhard Erasmus,4,13,16,81.25,1,0,1
+87514,Namibia,JJ Smit,5,8,12,66.67,1,0,1
+87514,Namibia,David Wiese,6,9,8,112.5,0,1,0
+87514,Namibia,Zane Green,7,0,2,0,0,0,1
+87514,Namibia,Malan Kruger,8,1,1,100,0,0,0
+87521,Sri Lanka,Pathum Nissanka,1,3,8,37.5,0,0,1
+87521,Sri Lanka,Kusal Mendis,2,19,30,63.33,1,0,1
+87521,Sri Lanka,Kamindu Mendis,3,11,15,73.33,1,0,1
+87521,Sri Lanka,Wanindu Hasaranga,4,0,2,0,0,0,1
+87521,Sri Lanka,Sadeera Samarawickrama,5,0,1,0,0,0,1
+87521,Sri Lanka,Charith Asalanka,6,6,9,66.67,0,0,1
+87521,Sri Lanka,Angelo Mathews,7,16,16,100,0,2,1
+87521,Sri Lanka,Dasun Shanaka,8,9,10,90,0,1,1
+87521,Sri Lanka,Maheesh Theekshana,9,7,16,43.75,1,0,0
+87521,Sri Lanka,Matheesha Pathirana,10,0,4,0,0,0,1
+87521,Sri Lanka,Nuwan Thushara,11,0,4,0,0,0,1
+87521,South Africa,Quinton de Kock,1,20,27,74.07,0,1,1
+87521,South Africa,Reeza Hendricks,2,4,2,200,1,0,1
+87521,South Africa,Aiden Markram,3,12,14,85.71,0,1,1
+87521,South Africa,Tristan Stubbs,4,13,28,46.43,0,0,1
+87521,South Africa,Heinrich Klaasen,5,19,22,86.36,1,1,0
+87521,South Africa,David Miller,6,6,6,100,1,0,0
+87528,Afghanistan,Rahmanullah Gurbaz,1,76,45,168.89,4,4,1
+87528,Afghanistan,Ibrahim Zadran,2,70,46,152.17,9,1,1
+87528,Afghanistan,Najibullah Zadran,3,2,3,66.67,0,0,1
+87528,Afghanistan,Mohammad Nabi,4,14,16,87.5,0,0,0
+87528,Afghanistan,Gulbadin Naib,5,4,5,80,0,0,1
+87528,Afghanistan,Azmatullah Omarzai,6,5,5,100,0,0,1
+87528,Afghanistan,Rashid Khan,7,2,1,200,0,0,0
+87528,Uganda,Ronak Patel,1,4,2,200,1,0,1
+87528,Uganda,Simon Ssesazi,2,4,4,100,1,0,1
+87528,Uganda,Roger Mukasa,3,0,1,0,0,0,1
+87528,Uganda,Riazat Ali Shah,4,11,34,32.35,0,0,1
+87528,Uganda,Dinesh Nakrani,5,6,8,75,1,0,1
+87528,Uganda,Alpesh Ramjani,6,0,2,0,0,0,1
+87528,Uganda,Robinson Obuya,7,14,25,56,0,1,1
+87528,Uganda,Brian Masaba,8,0,1,0,0,0,1
+87528,Uganda,Bilal Hassan,9,8,16,50,1,0,1
+87528,Uganda,Cosmas Kyewuta,10,2,2,100,0,0,0
+87528,Uganda,Henry Ssenyondo,11,0,1,0,0,0,1
+87535,Scotland,George Munsey,1,41,31,132.26,4,2,0
+87535,Scotland,Michael Jones,2,45,30,150,4,2,0
+87542,Nepal,Kushal Bhurtel,1,7,10,70,1,0,1
+87542,Nepal,Aasif Sheikh,2,4,8,50,1,0,1
+87542,Nepal,Anil Sah,3,11,12,91.67,2,0,1
+87542,Nepal,Rohit Paudel,4,35,37,94.59,5,0,1
+87542,Nepal,Kushal Malla,5,9,9,100,1,0,1
+87542,Nepal,Dipendra Singh,6,1,6,16.67,0,0,1
+87542,Nepal,Sompal Kami,7,0,5,0,0,0,1
+87542,Nepal,Gulsan Jha,8,14,15,93.33,0,1,1
+87542,Nepal,Karan KC,9,17,12,141.67,0,2,1
+87542,Nepal,Sagar Dhakal,10,0,1,0,0,0,0
+87542,Nepal,Abinash Bohara,11,0,1,0,0,0,1
+87542,Netherlands,Michael Levitt,1,1,3,33.33,0,0,1
+87542,Netherlands,Max ODowd,2,54,48,112.5,4,1,0
+87542,Netherlands,Vikramjit Singh,3,22,28,78.57,4,0,1
+87542,Netherlands,Sybrand Engelbrecht,4,14,16,87.5,1,0,1
+87542,Netherlands,Scott Edwards,5,5,8,62.5,0,0,1
+87542,Netherlands,Bas de Leede,6,11,10,110,1,0,0
+87549,Ireland,Andrew Balbirnie,1,5,10,50,1,0,1
+87549,Ireland,Paul Stirling,2,2,6,33.33,0,0,1
+87549,Ireland,Lorcan Tucker,3,10,13,76.92,2,0,1
+87549,Ireland,Harry Tector,4,4,16,25,0,0,1
+87549,Ireland,Curtis Campher,5,12,8,150,1,1,1
+87549,Ireland,George Dockrell,6,3,5,60,0,0,1
+87549,Ireland,Gareth Delany,7,26,14,185.71,2,2,1
+87549,Ireland,Mark Adair,8,3,2,150,0,0,1
+87549,Ireland,Barry McCarthy,9,0,6,0,0,0,1
+87549,Ireland,Joshua Little,10,14,13,107.69,2,0,1
+87549,Ireland,Benjamin White,11,2,4,50,0,0,0
+87549,India,Rohit Sharma,1,52,37,140.54,4,3,1
+87549,India,Virat Kohli,2,1,5,20,0,0,1
+87549,India,Rishabh Pant,3,36,26,138.46,3,2,0
+87549,India,Suryakumar Yadav,4,2,4,50,0,0,1
+87549,India,Shivam Dube,5,0,2,0,0,0,0
+87556,Papua New Guinea,Assad Vala,1,0,2,0,0,0,1
+87556,Papua New Guinea,Tony Ura,2,1,6,16.67,0,0,1
+87556,Papua New Guinea,Sese Bau,3,5,9,55.56,1,0,1
+87556,Papua New Guinea,Lega Siaka,4,12,17,70.59,1,0,1
+87556,Papua New Guinea,Hiri Hiri,5,15,19,78.95,2,0,1
+87556,Papua New Guinea,Charles Amini,6,5,14,35.71,0,0,1
+87556,Papua New Guinea,Kiplin Doriga,7,12,20,60,0,1,1
+87556,Papua New Guinea,Chad Soper,8,4,11,36.36,0,0,1
+87556,Papua New Guinea,Norman Vanua,9,5,10,50,0,0,1
+87556,Papua New Guinea,Alei Nao,10,5,6,83.33,0,0,1
+87556,Papua New Guinea,John Kariko,11,0,2,0,0,0,0
+87556,Uganda,Roger Mukasa,1,0,3,0,0,0,1
+87556,Uganda,Simon Ssesazi,2,1,3,33.33,0,0,1
+87556,Uganda,Robinson Obuya,3,1,2,50,0,0,1
+87556,Uganda,Riazat Ali Shah,4,33,56,58.93,1,0,1
+87556,Uganda,Alpesh Ramjani,5,8,10,80,1,0,1
+87556,Uganda,Dinesh Nakrani,6,0,3,0,0,0,1
+87556,Uganda,Juma Miyagi,7,13,16,81.25,0,0,1
+87556,Uganda,Kenneth Waiswa,8,7,16,43.75,0,0,0
+87556,Uganda,Brian Masaba,9,0,1,0,0,0,0
+87563,Australia,David Warner,1,56,51,109.8,6,1,1
+87563,Australia,Travis Head,2,12,10,120,2,0,1
+87563,Australia,Mitchell Marsh,3,14,21,66.67,2,0,1
+87563,Australia,Glenn Maxwell,4,0,1,0,0,0,1
+87563,Australia,Marcus Stoinis,5,67,36,186.11,2,6,0
+87563,Australia,Tim David,6,9,4,225,2,0,1
+87563,Oman,Kashyap Prajapati,1,7,16,43.75,1,0,1
+87563,Oman,Pratik Athavale,2,0,1,0,0,0,1
+87563,Oman,Aqib Ilyas,3,18,18,100,2,1,1
+87563,Oman,Zeeshan Maqsood,4,1,7,14.29,0,0,1
+87563,Oman,Khalid Kail,5,8,12,66.67,1,0,1
+87563,Oman,Ayaan Khan,6,36,30,120,2,2,1
+87563,Oman,Shoaib Khan,7,0,4,0,0,0,1
+87563,Oman,Mehran Khan,8,27,16,168.75,1,2,1
+87563,Oman,Shakeel Ahmed,9,11,10,110,1,0,1
+87563,Oman,Kaleemullah,10,6,4,150,0,0,0
+87563,Oman,Bilal Khan,11,1,2,50,0,0,0
+87570,Pakistan,Mohammad Rizwan,1,9,8,112.5,0,1,1
+87570,Pakistan,Babar Azam,2,44,43,102.33,3,2,1
+87570,Pakistan,Usman Khan,3,3,3,100,0,0,1
+87570,Pakistan,Fakhar Zaman,4,11,7,157.14,0,1,1
+87570,Pakistan,Shadab Khan,5,40,25,160,1,3,1
+87570,Pakistan,Azam Khan,6,0,1,0,0,0,1
+87570,Pakistan,Iftikhar Ahmed,7,18,14,128.57,3,0,1
+87570,Pakistan,Shaheen Afridi,8,23,16,143.75,1,2,0
+87570,Pakistan,Haris Rauf,9,3,3,100,0,0,0
+87570,United States,Steven Taylor,1,12,16,75,1,0,1
+87570,United States,Monank Patel,2,50,38,131.58,7,1,1
+87570,United States,Andries Gous,3,35,26,134.62,5,1,1
+87570,United States,Aaron Jones,4,36,26,138.46,2,2,0
+87570,United States,Nitish Kumar,5,14,14,100,1,0,0
+87577,Namibia,JP Kotze,1,0,3,0,0,0,1
+87577,Namibia,Niko Davin,2,20,12,166.67,4,0,1
+87577,Namibia,Jan Frylinck,3,12,14,85.71,2,0,1
+87577,Namibia,Gerhard Erasmus,4,52,31,167.74,5,2,1
+87577,Namibia,Malan Kruger,5,2,8,25,0,0,1
+87577,Namibia,Zane Green,6,28,27,103.7,1,1,1
+87577,Namibia,David Wiese,7,14,13,107.69,0,1,1
+87577,Namibia,Ruben Trumpelmann,8,1,2,50,0,0,1
+87577,Namibia,JJ Smit,9,11,8,137.5,0,1,1
+87577,Namibia,Bernard Scholtz,10,6,4,150,0,0,0
+87577,Namibia,Tangeni Lungameni,11,0,0,0,0,0,0
+87577,Scotland,George Munsey,1,7,15,46.67,0,0,1
+87577,Scotland,Michael Jones,2,26,20,130,3,1,1
+87577,Scotland,Brandon McMullen,3,19,17,111.76,2,0,1
+87577,Scotland,Richie Berrington,4,47,35,134.29,2,2,0
+87577,Scotland,Matthew Cross,5,3,5,60,0,0,1
+87577,Scotland,Michael Leask,6,35,17,205.88,0,4,1
+87577,Scotland,Chris Greaves,7,4,3,133.33,0,0,0
+87584,Canada,Aaron Johnson,1,14,13,107.69,3,0,1
+87584,Canada,Navneet Dhaliwal,2,6,10,60,1,0,1
+87584,Canada,Pargat Singh,3,18,14,128.57,2,0,1
+87584,Canada,Dilpreet Bajwa,4,7,9,77.78,1,0,1
+87584,Canada,Nicholas Kirton,5,49,35,140,3,2,1
+87584,Canada,Shreyas Movva,6,37,36,102.78,3,0,1
+87584,Canada,Dillon Heyliger,7,0,2,0,0,0,1
+87584,Canada,Saad Bin Zafar,8,1,1,100,0,0,0
+87584,Ireland,Andrew Balbirnie,1,17,19,89.47,1,0,1
+87584,Ireland,Paul Stirling,2,9,17,52.94,1,0,1
+87584,Ireland,Lorcan Tucker,3,10,15,66.67,0,0,1
+87584,Ireland,Harry Tector,4,7,5,140,0,0,1
+87584,Ireland,Curtis Campher,5,4,7,57.14,0,0,1
+87584,Ireland,George Dockrell,6,30,23,130.43,2,1,0
+87584,Ireland,Gareth Delany,7,3,7,42.86,0,0,1
+87584,Ireland,Mark Adair,8,34,24,141.67,3,1,1
+87584,Ireland,Barry McCarthy,9,2,3,66.67,0,0,0
+87591,Afghanistan,Rahmanullah Gurbaz,1,80,56,142.86,5,5,1
+87591,Afghanistan,Ibrahim Zadran,2,44,41,107.32,3,2,1
+87591,Afghanistan,Azmatullah Omarzai,3,22,13,169.23,1,2,1
+87591,Afghanistan,Mohammad Nabi,4,0,1,0,0,0,1
+87591,Afghanistan,Rashid Khan,5,6,5,120,1,0,1
+87591,Afghanistan,Karim Janat,6,1,1,100,0,0,0
+87591,Afghanistan,Gulbadin Naib,7,0,2,0,0,0,1
+87591,Afghanistan,Najibullah Zadran,8,1,1,100,0,0,0
+87591,New Zealand,Finn Allen,1,0,1,0,0,0,1
+87591,New Zealand,Devon Conway,2,8,10,80,1,0,1
+87591,New Zealand,Kane Williamson,3,9,13,69.23,1,0,1
+87591,New Zealand,Daryl Mitchell,4,5,5,100,1,0,1
+87591,New Zealand,Glenn Phillips,5,18,18,100,2,0,1
+87591,New Zealand,Mark Chapman,6,4,7,57.14,0,0,1
+87591,New Zealand,Michael Bracewell,7,0,1,0,0,0,1
+87591,New Zealand,Mitchell Santner,8,4,8,50,0,0,1
+87591,New Zealand,Matt Henry,9,12,17,70.59,0,1,1
+87591,New Zealand,Lockie Ferguson,10,2,5,40,0,0,1
+87591,New Zealand,Trent Boult,11,3,7,42.86,0,0,0
+87598,Sri Lanka,Pathum Nissanka,1,47,28,167.86,7,1,1
+87598,Sri Lanka,Kusal Mendis,2,10,8,125,2,0,1
+87598,Sri Lanka,Kamindu Mendis,3,4,5,80,1,0,1
+87598,Sri Lanka,Dhananjaya de Silva,4,21,26,80.77,1,0,1
+87598,Sri Lanka,Charith Asalanka,5,19,21,90.48,1,1,1
+87598,Sri Lanka,Wanindu Hasaranga,6,0,1,0,0,0,1
+87598,Sri Lanka,Angelo Mathews,7,16,19,84.21,1,0,1
+87598,Sri Lanka,Dasun Shanaka,8,3,7,42.86,0,0,1
+87598,Sri Lanka,Maheesh Theekshana,9,0,3,0,0,0,1
+87598,Sri Lanka,Matheesha Pathirana,10,0,1,0,0,0,0
+87598,Sri Lanka,Nuwan Thushara,11,0,1,0,0,0,0
+87598,Bangladesh,Tanzid Hasan,1,3,6,50,0,0,1
+87598,Bangladesh,Soumya Sarkar,2,0,2,0,0,0,1
+87598,Bangladesh,Litton Das,3,36,38,94.74,2,1,1
+87598,Bangladesh,Najmul Hossain Shanto,4,7,13,53.85,0,0,1
+87598,Bangladesh,Towhid Hridoy,5,40,20,200,1,4,1
+87598,Bangladesh,Shakib Al Hasan,6,8,14,57.14,0,0,1
+87598,Bangladesh,Mahmudullah,7,16,13,123.08,0,1,0
+87598,Bangladesh,Rishad Hossain,8,1,3,33.33,0,0,1
+87598,Bangladesh,Taskin Ahmed,9,0,1,0,0,0,1
+87598,Bangladesh,Tanzim Hasan Sakib,10,1,4,25,0,0,0
+87605,Netherlands,Michael Levitt,1,0,3,0,0,0,1
+87605,Netherlands,Max ODowd,2,2,6,33.33,0,0,1
+87605,Netherlands,Vikramjit Singh,3,12,17,70.59,1,0,1
+87605,Netherlands,Sybrand Engelbrecht,4,40,45,88.89,2,1,1
+87605,Netherlands,Bas de Leede,5,6,16,37.5,0,0,1
+87605,Netherlands,Scott Edwards,6,10,9,111.11,0,1,1
+87605,Netherlands,Teja Nidamanuru,7,0,1,0,0,0,1
+87605,Netherlands,Logan van Beek,8,23,22,104.55,3,0,1
+87605,Netherlands,Tim Pringle,9,0,2,0,0,0,1
+87605,Netherlands,Paul van Meekeren,10,1,1,100,0,0,0
+87605,South Africa,Reeza Hendricks,1,3,10,30,0,0,1
+87605,South Africa,Quinton de Kock,2,0,0,0,0,0,1
+87605,South Africa,Aiden Markram,3,0,3,0,0,0,1
+87605,South Africa,Tristan Stubbs,4,33,37,89.19,1,1,1
+87605,South Africa,Heinrich Klaasen,5,4,7,57.14,0,0,1
+87605,South Africa,David Miller,6,59,51,115.69,3,4,0
+87605,South Africa,Marco Jansen,7,3,5,60,0,0,1
+87605,South Africa,Keshav Maharaj,8,0,1,0,0,0,0
+87612,Australia,Travis Head,1,34,18,188.89,2,3,1
+87612,Australia,David Warner,2,39,16,243.75,2,4,1
+87612,Australia,Mitchell Marsh,3,35,25,140,2,2,1
+87612,Australia,Glenn Maxwell,4,28,25,112,3,1,1
+87612,Australia,Marcus Stoinis,5,30,17,176.47,2,2,1
+87612,Australia,Tim David,6,11,8,137.5,0,1,1
+87612,Australia,Matthew Wade,7,17,10,170,3,0,0
+87612,Australia,Pat Cummins,8,0,1,0,0,0,1
+87612,Australia,Mitchell Starc,9,0,0,0,0,0,0
+87612,England,Philip Salt,1,37,23,160.87,4,2,1
+87612,England,Jos Buttler,2,42,28,150,5,2,1
+87612,England,Will Jacks,3,10,10,100,1,0,1
+87612,England,Jonny Bairstow,4,7,13,53.85,0,0,1
+87612,England,Moeen Ali,5,25,15,166.67,0,3,1
+87612,England,Harry Brook,6,20,16,125,2,0,0
+87612,England,Liam Livingstone,7,15,12,125,0,1,1
+87612,England,Chris Jordan,8,1,3,33.33,0,0,0
+87619,West Indies,Brandon King,1,13,8,162.5,2,0,1
+87619,West Indies,Johnson Charles,2,44,42,104.76,4,2,1
+87619,West Indies,Nicholas Pooran,3,22,17,129.41,0,3,1
+87619,West Indies,Rovman Powell,4,23,18,127.78,1,1,1
+87619,West Indies,Sherfane Rutherford,5,22,16,137.5,2,1,1
+87619,West Indies,Andre Russell,6,30,17,176.47,6,0,0
+87619,West Indies,Romario Shepherd,7,5,5,100,0,0,0
+87619,Uganda,Roger Mukasa,1,0,2,0,0,0,1
+87619,Uganda,Simon Ssesazi,2,4,3,133.33,1,0,1
+87619,Uganda,Robinson Obuya,3,6,8,75,1,0,1
+87619,Uganda,Alpesh Ramjani,4,5,6,83.33,1,0,1
+87619,Uganda,Kenneth Waiswa,5,1,10,10,0,0,1
+87619,Uganda,Riazat Ali Shah,6,3,8,37.5,0,0,1
+87619,Uganda,Dinesh Nakrani,7,0,2,0,0,0,1
+87619,Uganda,Brian Masaba,8,1,4,25,0,0,1
+87619,Uganda,Juma Miyagi,9,13,20,65,0,0,0
+87619,Uganda,Cosmas Kyewuta,10,1,6,16.67,0,0,1
+87619,Uganda,Frank Nsubuga,11,0,3,0,0,0,1
+87626,India,Rohit Sharma,1,13,12,108.33,1,1,1
+87626,India,Virat Kohli,2,4,3,133.33,1,0,1
+87626,India,Rishabh Pant,3,42,31,135.48,6,0,1
+87626,India,Axar Patel,4,20,18,111.11,2,1,1
+87626,India,Suryakumar Yadav,5,7,8,87.5,1,0,1
+87626,India,Shivam Dube,6,3,9,33.33,0,0,1
+87626,India,Hardik Pandya,7,7,12,58.33,1,0,1
+87626,India,Ravindra Jadeja,8,0,1,0,0,0,1
+87626,India,Arshdeep Singh,9,9,13,69.23,1,0,1
+87626,India,Jasprit Bumrah,10,0,1,0,0,0,1
+87626,India,Mohammed Siraj,11,7,7,100,0,0,0
+87626,Pakistan,Mohammad Rizwan,1,31,44,70.45,1,1,1
+87626,Pakistan,Babar Azam,2,13,10,130,2,0,1
+87626,Pakistan,Usman Khan,3,13,15,86.67,1,0,1
+87626,Pakistan,Fakhar Zaman,4,13,8,162.5,1,1,1
+87626,Pakistan,Imad Wasim,5,15,23,65.22,1,0,1
+87626,Pakistan,Shadab Khan,6,4,7,57.14,0,0,1
+87626,Pakistan,Iftikhar Ahmed,7,5,9,55.56,0,0,1
+87626,Pakistan,Shaheen Afridi,8,0,1,0,0,0,0
+87626,Pakistan,Naseem Shah,9,10,4,250,2,0,0
+87633,Oman,Pratik Athavale,1,54,40,135,5,2,1
+87633,Oman,Naseem Khushi,2,10,9,111.11,0,1,1
+87633,Oman,Aqib Ilyas,3,16,6,266.67,2,1,1
+87633,Oman,Zeeshan Maqsood,4,3,4,75,0,0,1
+87633,Oman,Khalid Kail,5,5,7,71.43,0,0,1
+87633,Oman,Ayaan Khan,6,41,39,105.13,4,0,0
+87633,Oman,Mehran Khan,7,13,10,130,2,0,1
+87633,Oman,Rafiullah,8,0,3,0,0,0,1
+87633,Oman,Shakeel Ahmed,9,3,2,150,0,0,0
+87633,Scotland,George Munsey,1,41,20,205,2,4,1
+87633,Scotland,Michael Jones,2,16,13,123.08,1,2,1
+87633,Scotland,Brandon McMullen,3,61,31,196.77,9,2,0
+87633,Scotland,Richie Berrington,4,13,7,185.71,1,1,1
+87633,Scotland,Matthew Cross,5,15,8,187.5,0,2,0
+87640,South Africa,Quinton de Kock,1,18,11,163.64,1,2,1
+87640,South Africa,Reeza Hendricks,2,0,1,0,0,0,1
+87640,South Africa,Aiden Markram,3,4,8,50,1,0,1
+87640,South Africa,Tristan Stubbs,4,0,5,0,0,0,1
+87640,South Africa,Heinrich Klaasen,5,46,44,104.55,2,3,1
+87640,South Africa,David Miller,6,29,38,76.32,1,1,1
+87640,South Africa,Marco Jansen,7,5,5,100,0,0,0
+87640,South Africa,Keshav Maharaj,8,4,8,50,0,0,0
+87640,Bangladesh,Tanzid Hasan,1,9,9,100,2,0,1
+87640,Bangladesh,Najmul Hossain Shanto,2,14,23,60.87,0,1,1
+87640,Bangladesh,Litton Das,3,9,13,69.23,1,0,1
+87640,Bangladesh,Shakib Al Hasan,4,3,4,75,0,0,1
+87640,Bangladesh,Towhid Hridoy,5,37,34,108.82,2,2,1
+87640,Bangladesh,Mahmudullah,6,20,27,74.07,2,0,1
+87640,Bangladesh,Jaker Ali,7,8,9,88.89,0,0,1
+87640,Bangladesh,Rishad Hossain,8,0,1,0,0,0,0
+87640,Bangladesh,Taskin Ahmed,9,1,1,100,0,0,0
+87647,Canada,Aaron Johnson,1,52,44,118.18,4,4,1
+87647,Canada,Navneet Dhaliwal,2,4,7,57.14,1,0,1
+87647,Canada,Pargat Singh,3,2,6,33.33,0,0,1
+87647,Canada,Nicholas Kirton,4,1,6,16.67,0,0,1
+87647,Canada,Shreyas Movva,5,2,9,22.22,0,0,1
+87647,Canada,Ravinderpal Singh,6,0,2,0,0,0,1
+87647,Canada,Saad Bin Zafar,7,10,21,47.62,1,0,1
+87647,Canada,Kaleem Sana,8,13,14,92.86,0,1,0
+87647,Canada,Dillon Heyliger,9,9,11,81.82,1,0,0
+87647,Pakistan,Mohammad Rizwan,1,53,53,100,2,1,0
+87647,Pakistan,Saim Ayub,2,6,12,50,0,0,1
+87647,Pakistan,Babar Azam,3,33,33,100,1,1,1
+87647,Pakistan,Fakhar Zaman,4,4,6,66.67,0,0,1
+87647,Pakistan,Usman Khan,5,2,1,200,0,0,0
+87661,Namibia,Michael van Lingen,1,10,10,100,2,0,1
+87661,Namibia,Niko Davin,2,2,7,28.57,0,0,1
+87661,Namibia,Jan Frylinck,3,1,6,16.67,0,0,1
+87661,Namibia,Gerhard Erasmus,4,36,43,83.72,4,1,1
+87661,Namibia,JJ Smit,5,3,9,33.33,0,0,1
+87661,Namibia,Zane Green,6,1,4,25,0,0,1
+87661,Namibia,David Wiese,7,1,7,14.29,0,0,1
+87661,Namibia,Ruben Trumpelmann,8,7,7,100,0,1,1
+87661,Namibia,Bernard Scholtz,9,0,2,0,0,0,1
+87661,Namibia,Jack Brassell,10,2,3,66.67,0,0,0
+87661,Namibia,Ben Shikongo,11,0,4,0,0,0,1
+87661,Australia,David Warner,1,20,8,250,3,1,1
+87661,Australia,Travis Head,2,34,17,200,5,2,0
+87661,Australia,Mitchell Marsh,3,18,9,200,3,1,0
+87668,United States,Shayan Jahangir,1,0,1,0,0,0,1
+87668,United States,Steven Taylor,2,24,30,80,0,2,1
+87668,United States,Andries Gous,3,2,5,40,0,0,1
+87668,United States,Aaron Jones,4,11,22,50,0,1,1
+87668,United States,Nitish Kumar,5,27,23,117.39,2,1,1
+87668,United States,Corey Anderson,6,15,12,125,1,1,1
+87668,United States,Harmeet Singh,7,10,10,100,0,1,1
+87668,United States,Shadley van Schalkwyk,8,11,10,110,1,0,0
+87668,United States,Jasdeep Singh,9,2,7,28.57,0,0,1
+87668,India,Rohit Sharma,1,3,6,50,0,0,1
+87668,India,Virat Kohli,2,0,1,0,0,0,1
+87668,India,Rishabh Pant,3,18,20,90,1,1,1
+87668,India,Suryakumar Yadav,4,50,49,102.04,2,2,0
+87668,India,Shivam Dube,5,31,35,88.57,1,1,0
+87675,West Indies,Brandon King,1,9,12,75,0,1,1
+87675,West Indies,Johnson Charles,2,0,5,0,0,0,1
+87675,West Indies,Nicholas Pooran,3,17,12,141.67,3,0,1
+87675,West Indies,Roston Chase,4,0,3,0,0,0,1
+87675,West Indies,Rovman Powell,5,1,5,20,0,0,1
+87675,West Indies,Sherfane Rutherford,6,68,39,174.36,2,6,0
+87675,West Indies,Akeal Hosein,7,15,17,88.24,0,1,1
+87675,West Indies,Andre Russell,8,14,7,200,2,1,1
+87675,West Indies,Romario Shepherd,9,13,13,100,0,1,1
+87675,West Indies,Alzarri Joseph,10,6,6,100,1,0,1
+87675,West Indies,Gudakesh Motie,11,0,1,0,0,0,0
+87675,New Zealand,Devon Conway,1,5,8,62.5,0,0,1
+87675,New Zealand,Finn Allen,2,26,23,113.04,3,1,1
+87675,New Zealand,Rachin Ravindra,3,10,13,76.92,0,0,1
+87675,New Zealand,Kane Williamson,4,1,2,50,0,0,1
+87675,New Zealand,Daryl Mitchell,5,12,13,92.31,1,0,1
+87675,New Zealand,Glenn Phillips,6,40,33,121.21,3,2,1
+87675,New Zealand,James Neesham,7,10,11,90.91,0,1,1
+87675,New Zealand,Mitchell Santner,8,21,12,175,0,3,0
+87675,New Zealand,Tim Southee,9,0,1,0,0,0,1
+87675,New Zealand,Trent Boult,10,7,4,175,0,1,1
+87675,New Zealand,Lockie Ferguson,11,0,0,0,0,0,0
+87682,Oman,Pratik Athavale,1,5,3,166.67,1,0,1
+87682,Oman,Kashyap Prajapati,2,9,16,56.25,0,1,1
+87682,Oman,Aqib Ilyas,3,8,10,80,1,0,1
+87682,Oman,Zeeshan Maqsood,4,1,5,20,0,0,1
+87682,Oman,Khalid Kail,5,1,3,33.33,0,0,1
+87682,Oman,Ayaan Khan,6,1,5,20,0,0,1
+87682,Oman,Shoaib Khan,7,11,23,47.83,1,0,1
+87682,Oman,Mehran Khan,8,0,2,0,0,0,1
+87682,Oman,Fayyaz Butt,9,2,7,28.57,0,0,1
+87682,Oman,Kaleemullah,10,5,5,100,1,0,1
+87682,Oman,Bilal Khan,11,0,1,0,0,0,0
+87682,England,Philip Salt,1,12,3,400,0,2,1
+87682,England,Jos Buttler,2,24,8,300,4,1,0
+87682,England,Will Jacks,3,5,7,71.43,1,0,1
+87682,England,Jonny Bairstow,4,8,2,400,2,0,0
+87689,Bangladesh,Tanzid Hasan,1,35,26,134.62,5,1,1
+87689,Bangladesh,Najmul Hossain Shanto,2,1,3,33.33,0,0,1
+87689,Bangladesh,Litton Das,3,1,2,50,0,0,1
+87689,Bangladesh,Shakib Al Hasan,4,64,46,139.13,9,0,0
+87689,Bangladesh,Towhid Hridoy,5,9,15,60,0,0,1
+87689,Bangladesh,Mahmudullah,6,25,21,119.05,2,2,1
+87689,Bangladesh,Jaker Ali,7,14,7,200,3,0,0
+87689,Netherlands,Michael Levitt,1,18,16,112.5,2,1,1
+87689,Netherlands,Max ODowd,2,12,16,75,3,0,1
+87689,Netherlands,Vikramjit Singh,3,26,16,162.5,0,3,1
+87689,Netherlands,Sybrand Engelbrecht,4,33,22,150,3,1,1
+87689,Netherlands,Scott Edwards,5,25,23,108.7,3,0,1
+87689,Netherlands,Bas de Leede,6,0,2,0,0,0,1
+87689,Netherlands,Logan van Beek,7,2,3,66.67,0,0,1
+87689,Netherlands,Tim Pringle,8,1,10,10,0,0,1
+87689,Netherlands,Aryan Dutt,9,15,12,125,1,1,0
+87696,Papua New Guinea,Tony Ura,1,11,18,61.11,1,0,1
+87696,Papua New Guinea,Assad Vala,2,3,2,150,0,0,1
+87696,Papua New Guinea,Lega Siaka,3,0,1,0,0,0,1
+87696,Papua New Guinea,Sese Bau,4,0,1,0,0,0,1
+87696,Papua New Guinea,Hiri Hiri,5,1,3,33.33,0,0,1
+87696,Papua New Guinea,Chad Soper,6,9,26,34.62,0,0,1
+87696,Papua New Guinea,Kiplin Doriga,7,27,32,84.38,2,0,1
+87696,Papua New Guinea,Norman Vanua,8,0,7,0,0,0,1
+87696,Papua New Guinea,Alei Nao,9,13,19,68.42,2,0,1
+87696,Papua New Guinea,John Kariko,10,4,7,57.14,1,0,0
+87696,Papua New Guinea,Semo Kamea,11,2,3,66.67,0,0,1
+87696,Afghanistan,Rahmanullah Gurbaz,1,11,7,157.14,1,1,1
+87696,Afghanistan,Ibrahim Zadran,2,0,7,0,0,0,1
+87696,Afghanistan,Gulbadin Naib,3,49,36,136.11,4,2,0
+87696,Afghanistan,Azmatullah Omarzai,4,13,18,72.22,1,0,1
+87696,Afghanistan,Mohammad Nabi,5,16,23,69.57,1,0,0
+87710,South Africa,Reeza Hendricks,1,43,49,87.76,5,1,1
+87710,South Africa,Quinton de Kock,2,10,11,90.91,1,0,1
+87710,South Africa,Aiden Markram,3,15,22,68.18,2,0,1
+87710,South Africa,Heinrich Klaasen,4,3,5,60,0,0,1
+87710,South Africa,David Miller,5,7,10,70,0,0,1
+87710,South Africa,Tristan Stubbs,6,27,18,150,2,1,0
+87710,South Africa,Marco Jansen,7,1,4,25,0,0,1
+87710,South Africa,Kagiso Rabada,8,0,1,0,0,0,1
+87710,Nepal,Kushal Bhurtel,1,13,21,61.9,1,1,1
+87710,Nepal,Aasif Sheikh,2,42,49,85.71,4,1,1
+87710,Nepal,Rohit Paudel,3,0,2,0,0,0,1
+87710,Nepal,Anil Sah,4,27,24,112.5,3,1,1
+87710,Nepal,Dipendra Singh Airee,5,6,11,54.55,0,0,1
+87710,Nepal,Kushal Malla,6,1,3,33.33,0,0,1
+87710,Nepal,Gulsan Jha,7,6,6,100,1,0,1
+87710,Nepal,Sompal Kami,8,8,4,200,0,1,0
+87717,Uganda,Ronak Patel,1,2,20,10,0,0,1
+87717,Uganda,Simon Ssesazi,2,0,1,0,0,0,1
+87717,Uganda,Robinson Obuya,3,0,1,0,0,0,1
+87717,Uganda,Alpesh Ramjani,4,0,6,0,0,0,1
+87717,Uganda,Kenneth Waiswa,5,11,18,61.11,2,0,1
+87717,Uganda,Riazat Ali Shah,6,2,13,15.38,0,0,1
+87717,Uganda,Dinesh Nakrani,7,4,13,30.77,0,0,1
+87717,Uganda,Brian Masaba,8,3,20,15,0,0,0
+87717,Uganda,Fred Achelam,9,9,13,69.23,1,0,1
+87717,Uganda,Juma Miyagi,10,0,1,0,0,0,1
+87717,Uganda,Cosmas Kyewuta,11,1,6,16.67,0,0,1
+87717,New Zealand,Finn Allen,1,9,17,52.94,1,0,1
+87717,New Zealand,Devon Conway,2,22,15,146.67,4,0,0
+87717,New Zealand,Rachin Ravindra,3,1,1,100,0,0,0
+87731,England,Philip Salt,1,11,8,137.5,2,0,1
+87731,England,Jos Buttler,2,0,4,0,0,0,1
+87731,England,Jonny Bairstow,3,31,18,172.22,3,2,1
+87731,England,Harry Brook,4,47,20,235,4,2,0
+87731,England,Moeen Ali,5,16,6,266.67,0,2,1
+87731,England,Liam Livingstone,6,13,4,325,0,2,1
+87731,Namibia,Michael van Lingen,1,33,29,113.79,1,3,1
+87731,Namibia,Nikolaas Davin,2,18,16,112.5,1,1,1
+87731,Namibia,David Wiese,3,27,12,225,2,2,1
+87731,Namibia,Gerhard Erasmus,4,1,3,33.33,0,0,0
+87731,Namibia,JJ Smit,5,0,1,0,0,0,0
+87738,Scotland,George Munsey,1,35,23,152.17,2,3,1
+87738,Scotland,Michael Jones,2,2,3,66.67,0,0,1
+87738,Scotland,Brandon McMullen,3,60,34,176.47,2,6,1
+87738,Scotland,Richie Berrington,4,42,31,135.48,1,2,0
+87738,Scotland,Matthew Cross,5,18,11,163.64,1,1,1
+87738,Scotland,Michael Leask,6,5,8,62.5,0,0,1
+87738,Scotland,Chris Greaves,7,9,10,90,0,0,0
+87738,Australia,Travis Head,1,68,49,138.78,5,4,1
+87738,Australia,David Warner,2,1,4,25,0,0,1
+87738,Australia,Mitchell Marsh,3,8,9,88.89,1,0,1
+87738,Australia,Glenn Maxwell,4,11,8,137.5,0,1,1
+87738,Australia,Marcus Stoinis,5,59,29,203.45,9,2,1
+87738,Australia,Tim David,6,24,14,171.43,2,1,0
+87738,Australia,Matthew Wade,7,4,5,80,0,0,0
+87745,Ireland,Andrew Balbirnie,1,0,3,0,0,0,1
+87745,Ireland,Paul Stirling,2,1,2,50,0,0,1
+87745,Ireland,Lorcan Tucker,3,2,2,100,0,0,1
+87745,Ireland,Harry Tector,4,0,6,0,0,0,1
+87745,Ireland,Curtis Campher,5,7,14,50,1,0,1
+87745,Ireland,George Dockrell,6,11,10,110,2,0,1
+87745,Ireland,Gareth Delany,7,31,19,163.16,1,3,1
+87745,Ireland,Mark Adair,8,15,19,78.95,2,0,1
+87745,Ireland,Barry McCarthy,9,2,7,28.57,0,0,1
+87745,Ireland,Joshua Little,10,22,18,122.22,2,1,0
+87745,Ireland,Benjamin White,11,5,20,25,0,0,0
+87745,Pakistan,Mohammad Rizwan,1,17,16,106.25,3,0,1
+87745,Pakistan,Saim Ayub,2,17,17,100,2,1,1
+87745,Pakistan,Babar Azam,3,32,34,94.12,2,0,0
+87745,Pakistan,Fakhar Zaman,4,5,9,55.56,0,0,1
+87745,Pakistan,Usman Khan,5,2,3,66.67,0,0,1
+87745,Pakistan,Shadab Khan,6,0,2,0,0,0,1
+87745,Pakistan,Imad Wasim,7,4,6,66.67,1,0,1
+87745,Pakistan,Abbas Afridi,8,17,21,80.95,1,1,1
+87745,Pakistan,Shaheen Afridi,9,13,5,260,0,2,0
+87752,Bangladesh,Tanzid Hasan,1,0,1,0,0,0,1
+87752,Bangladesh,Litton Das,2,10,12,83.33,1,0,1
+87752,Bangladesh,Najmul Hossain Shanto,3,4,5,80,0,0,1
+87752,Bangladesh,Shakib Al Hasan,4,17,22,77.27,2,0,1
+87752,Bangladesh,Towhid Hridoy,5,9,7,128.57,2,0,1
+87752,Bangladesh,Mahmudullah,6,13,13,100,2,0,1
+87752,Bangladesh,Jaker Ali,7,12,26,46.15,0,0,1
+87752,Bangladesh,Tanzim Hasan Sakib,8,3,5,60,0,0,1
+87752,Bangladesh,Rishad Hossain,9,13,7,185.71,1,1,1
+87752,Bangladesh,Taskin Ahmed,10,12,15,80,2,0,0
+87752,Bangladesh,Mustafizur Rahman,11,3,4,75,0,0,1
+87752,Nepal,Kushal Bhurtel,1,4,8,50,1,0,1
+87752,Nepal,Aasif Sheikh,2,17,14,121.43,4,0,1
+87752,Nepal,Anil Sah,3,0,2,0,0,0,1
+87752,Nepal,Rohit Paudel,4,1,6,16.67,0,0,1
+87752,Nepal,Sundeep Jora,5,1,8,12.5,0,0,1
+87752,Nepal,Kushal Malla,6,27,40,67.5,1,1,1
+87752,Nepal,Dipendra Singh Airee,7,25,31,80.65,2,1,1
+87752,Nepal,Gulsan Jha,8,0,4,0,0,0,1
+87752,Nepal,Sompal Kami,9,0,2,0,0,0,1
+87752,Nepal,Sandeep Lamichhane,10,0,0,0,0,0,0
+87752,Nepal,Abinash Bohara,11,0,1,0,0,0,1
+87759,Sri Lanka,Pathum Nissanka,1,0,2,0,0,0,1
+87759,Sri Lanka,Kusal Mendis,2,46,29,158.62,5,0,1
+87759,Sri Lanka,Kamindu Mendis,3,17,20,85,1,1,1
+87759,Sri Lanka,Dhananjaya de Silva,4,34,26,130.77,3,1,1
+87759,Sri Lanka,Charith Asalanka,5,46,21,219.05,1,5,1
+87759,Sri Lanka,Angelo Mathews,6,30,15,200,1,2,0
+87759,Sri Lanka,Dasun Shanaka,7,0,1,0,0,0,1
+87759,Sri Lanka,Wanindu Hasaranga,8,20,6,333.33,1,2,0
+87759,Netherlands,Michael Levitt,1,31,23,134.78,2,3,1
+87759,Netherlands,Max ODowd,2,11,8,137.5,0,1,1
+87759,Netherlands,Vikramjit Singh,3,7,10,70,0,0,1
+87759,Netherlands,Sybrand Engelbrecht,4,11,9,122.22,0,1,1
+87759,Netherlands,Scott Edwards,5,31,24,129.17,2,1,1
+87759,Netherlands,Bas de Leede,6,3,5,60,0,0,1
+87759,Netherlands,Logan van Beek,7,0,1,0,0,0,1
+87759,Netherlands,Tim Pringle,8,2,4,50,0,0,1
+87759,Netherlands,Aryan Dutt,9,10,8,125,1,0,1
+87759,Netherlands,Paul van Meekeren,10,3,8,37.5,0,0,1
+87759,Netherlands,Vivian Kingma,11,1,1,100,0,0,0
+87766,Papua New Guinea,Tony Ura,1,1,2,50,0,0,1
+87766,Papua New Guinea,Assad Vala,2,6,16,37.5,1,0,1
+87766,Papua New Guinea,Charles Amini,3,17,25,68,2,0,1
+87766,Papua New Guinea,Sese Bau,4,12,27,44.44,1,0,1
+87766,Papua New Guinea,Hiri Hiri,5,7,11,63.64,1,0,1
+87766,Papua New Guinea,Chad Soper,6,1,6,16.67,0,0,1
+87766,Papua New Guinea,Kiplin Doriga,7,5,7,71.43,1,0,1
+87766,Papua New Guinea,Norman Vanua,8,14,13,107.69,1,1,1
+87766,Papua New Guinea,Alei Nao,9,3,7,42.86,0,0,1
+87766,Papua New Guinea,Kabua Morea,10,0,3,0,0,0,1
+87766,Papua New Guinea,Semo Kamea,11,1,1,100,0,0,0
+87766,New Zealand,Finn Allen,1,0,2,0,0,0,1
+87766,New Zealand,Devon Conway,2,35,32,109.38,2,3,1
+87766,New Zealand,Rachin Ravindra,3,6,11,54.55,0,0,1
+87766,New Zealand,Kane Williamson,4,18,17,105.88,2,0,0
+87766,New Zealand,Daryl Mitchell,5,19,12,158.33,3,0,0
+87773,West Indies,Brandon King,1,7,6,116.67,1,0,1
+87773,West Indies,Johnson Charles,2,43,27,159.26,8,0,1
+87773,West Indies,Nicholas Pooran,3,98,53,184.91,6,8,1
+87773,West Indies,Shai Hope,4,25,17,147.06,0,2,1
+87773,West Indies,Rovman Powell,5,26,15,173.33,1,2,1
+87773,West Indies,Andre Russell,6,3,3,100,0,0,0
+87773,West Indies,Sherfane Rutherford,7,1,1,100,0,0,0
+87773,Afghanistan,Rahmanullah Gurbaz,1,0,3,0,0,0,1
+87773,Afghanistan,Ibrahim Zadran,2,38,28,135.71,5,1,1
+87773,Afghanistan,Gulbadin Naib,3,7,10,70,1,0,1
+87773,Afghanistan,Azmatullah Omarzai,4,23,19,121.05,1,1,1
+87773,Afghanistan,Najibullah Zadran,5,0,2,0,0,0,1
+87773,Afghanistan,Mohammad Nabi,6,1,4,25,0,0,1
+87773,Afghanistan,Karim Janat,7,14,9,155.56,0,1,1
+87773,Afghanistan,Rashid Khan,8,18,11,163.64,2,1,1
+87773,Afghanistan,Noor Ahmad,9,2,4,50,0,0,1
+87773,Afghanistan,Naveen-ul-Haq,10,4,6,66.67,1,0,1
+87773,Afghanistan,Fazalhaq Farooqi,11,0,2,0,0,0,0
+87780,South Africa,Quinton de Kock,1,74,40,185,7,5,1
+87780,South Africa,Reeza Hendricks,2,11,11,100,0,1,1
+87780,South Africa,Aiden Markram,3,46,32,143.75,4,1,1
+87780,South Africa,David Miller,4,0,1,0,0,0,1
+87780,South Africa,Heinrich Klaasen,5,36,22,163.64,0,3,0
+87780,South Africa,Tristan Stubbs,6,20,16,125,2,0,0
+87780,United States,Steven Taylor,1,24,14,171.43,4,1,1
+87780,United States,Andries Gous,2,80,47,170.21,5,5,0
+87780,United States,Nitish Kumar,3,8,6,133.33,0,1,1
+87780,United States,Aaron Jones,4,0,5,0,0,0,1
+87780,United States,Corey Anderson,5,12,12,100,0,1,1
+87780,United States,Shayan Jahangir,6,3,9,33.33,0,0,1
+87780,United States,Harmeet Singh,7,38,22,172.73,2,3,1
+87780,United States,Jasdeep Singh,8,2,6,33.33,0,0,0
+87787,West Indies,Brandon King,1,23,13,176.92,3,1,1
+87787,West Indies,Johnson Charles,2,38,34,111.76,4,1,1
+87787,West Indies,Nicholas Pooran,3,36,32,112.5,4,1,1
+87787,West Indies,Rovman Powell,4,36,17,211.76,0,5,1
+87787,West Indies,Andre Russell,5,1,2,50,0,0,1
+87787,West Indies,Sherfane Rutherford,6,28,15,186.67,1,2,0
+87787,West Indies,Romario Shepherd,7,5,7,71.43,1,0,0
+87787,England,Philip Salt,1,87,47,185.11,7,5,0
+87787,England,Jos Buttler,2,25,22,113.64,2,0,1
+87787,England,Moeen Ali,3,13,10,130,2,0,1
+87787,England,Jonny Bairstow,4,48,26,184.62,5,2,0
+87794,India,Rohit Sharma,1,8,13,61.54,1,0,1
+87794,India,Virat Kohli,2,24,24,100,0,1,1
+87794,India,Rishabh Pant,3,20,11,181.82,4,0,1
+87794,India,Suryakumar Yadav,4,53,28,189.29,5,3,1
+87794,India,Shivam Dube,5,10,7,142.86,0,1,1
+87794,India,Hardik Pandya,6,32,24,133.33,3,2,1
+87794,India,Ravindra Jadeja,7,7,5,140,1,0,1
+87794,India,Axar Patel,8,12,6,200,2,0,1
+87794,India,Arshdeep Singh,9,2,2,100,0,0,0
+87794,Afghanistan,Rahmanullah Gurbaz,1,11,8,137.5,1,1,1
+87794,Afghanistan,Hazratullah Zazai,2,2,4,50,0,0,1
+87794,Afghanistan,Ibrahim Zadran,3,8,11,72.73,1,0,1
+87794,Afghanistan,Gulbadin Naib,4,17,21,80.95,1,1,1
+87794,Afghanistan,Azmatullah Omarzai,5,26,20,130,2,1,1
+87794,Afghanistan,Najibullah Zadran,6,19,17,111.76,0,2,1
+87794,Afghanistan,Mohammad Nabi,7,14,14,100,0,1,1
+87794,Afghanistan,Rashid Khan,8,2,6,33.33,0,0,1
+87794,Afghanistan,Noor Ahmad,9,12,18,66.67,1,1,1
+87794,Afghanistan,Naveen-ul-Haq,10,0,1,0,0,0,1
+87794,Afghanistan,Fazalhaq Farooqi,11,4,1,400,1,0,0
+87801,Bangladesh,Tanzid Hasan,1,0,3,0,0,0,1
+87801,Bangladesh,Litton Das,2,16,25,64,2,0,1
+87801,Bangladesh,Najmul Hossain Shanto,3,41,36,113.89,5,1,1
+87801,Bangladesh,Rishad Hossain,4,2,4,50,0,0,1
+87801,Bangladesh,Towhid Hridoy,5,40,28,142.86,2,2,1
+87801,Bangladesh,Shakib Al Hasan,6,8,10,80,0,0,1
+87801,Bangladesh,Mahmudullah,7,2,3,66.67,0,0,1
+87801,Bangladesh,Mahedi Hasan,8,0,1,0,0,0,1
+87801,Bangladesh,Taskin Ahmed,9,13,7,185.71,1,0,0
+87801,Bangladesh,Tanzim Hasan Sakib,10,4,3,133.33,0,0,0
+87801,Australia,David Warner,1,53,35,151.43,5,3,0
+87801,Australia,Travis Head,2,31,21,147.62,3,2,1
+87801,Australia,Mitchell Marsh,3,1,6,16.67,0,0,1
+87801,Australia,Glenn Maxwell,4,14,6,233.33,1,1,0
+87808,South Africa,Reeza Hendricks,1,19,25,76,1,0,1
+87808,South Africa,Quinton de Kock,2,65,38,171.05,4,4,1
+87808,South Africa,Heinrich Klaasen,3,8,13,61.54,1,0,1
+87808,South Africa,David Miller,4,43,28,153.57,4,2,1
+87808,South Africa,Aiden Markram,5,1,2,50,0,0,1
+87808,South Africa,Tristan Stubbs,6,12,11,109.09,1,0,0
+87808,South Africa,Marco Jansen,7,0,1,0,0,0,1
+87808,South Africa,Keshav Maharaj,8,5,2,250,1,0,0
+87808,England,Philip Salt,1,11,8,137.5,1,1,1
+87808,England,Jos Buttler,2,17,20,85,1,0,1
+87808,England,Jonny Bairstow,3,16,20,80,1,0,1
+87808,England,Moeen Ali,4,9,10,90,0,0,1
+87808,England,Harry Brook,5,53,37,143.24,7,0,1
+87808,England,Liam Livingstone,6,33,17,194.12,3,2,1
+87808,England,Sam Curran,7,10,7,142.86,1,0,0
+87808,England,Jofra Archer,8,1,2,50,0,0,0
+87815,United States,Steven Taylor,1,2,7,28.57,0,0,1
+87815,United States,Andries Gous,2,29,16,181.25,3,1,1
+87815,United States,Nitish Kumar,3,20,19,105.26,2,0,1
+87815,United States,Aaron Jones,4,11,11,100,0,1,1
+87815,United States,Corey Anderson,5,7,15,46.67,0,0,1
+87815,United States,Milind Kumar,6,19,21,90.48,1,0,1
+87815,United States,Harmeet Singh,7,0,1,0,0,0,1
+87815,United States,Shadley van Schalkwyk,8,18,17,105.88,3,0,1
+87815,United States,Nosthush Kenjige,9,1,3,33.33,0,0,1
+87815,United States,Ali Khan,10,14,6,233.33,1,1,0
+87815,United States,Saurabh Netravalkar,11,0,4,0,0,0,1
+87815,West Indies,Shai Hope,1,82,39,210.26,4,8,0
+87815,West Indies,Johnson Charles,2,15,14,107.14,2,0,1
+87815,West Indies,Nicholas Pooran,3,27,12,225,1,3,0
+87822,India,Rohit Sharma,1,23,11,209.09,3,1,1
+87822,India,Virat Kohli,2,37,28,132.14,1,3,1
+87822,India,Rishabh Pant,3,36,24,150,4,2,1
+87822,India,Suryakumar Yadav,4,6,2,300,0,1,1
+87822,India,Shivam Dube,5,34,24,141.67,0,3,1
+87822,India,Hardik Pandya,6,50,27,185.19,4,3,0
+87822,India,Axar Patel,7,3,5,60,0,0,0
+87822,Bangladesh,Litton Das,1,13,10,130,1,1,1
+87822,Bangladesh,Tanzid Hasan,2,29,31,93.55,4,0,1
+87822,Bangladesh,Najmul Hossain Shanto,3,40,32,125,1,3,1
+87822,Bangladesh,Towhid Hridoy,4,4,6,66.67,0,0,1
+87822,Bangladesh,Shakib Al Hasan,5,11,7,157.14,1,1,1
+87822,Bangladesh,Mahmudullah,6,13,15,86.67,1,0,1
+87822,Bangladesh,Jaker Ali,7,1,4,25,0,0,1
+87822,Bangladesh,Rishad Hossain,8,24,10,240,1,3,1
+87822,Bangladesh,Mahedi Hasan,9,5,4,125,1,0,0
+87822,Bangladesh,Tanzim Hasan Sakib,10,1,1,100,0,0,0
+87829,Afghanistan,Rahmanullah Gurbaz,1,60,49,122.45,4,4,1
+87829,Afghanistan,Ibrahim Zadran,2,51,48,106.25,6,0,1
+87829,Afghanistan,Azmatullah Omarzai,3,2,3,66.67,0,0,1
+87829,Afghanistan,Karim Janat,4,13,9,144.44,0,1,1
+87829,Afghanistan,Rashid Khan,5,2,5,40,0,0,1
+87829,Afghanistan,Mohammad Nabi,6,10,4,250,2,0,0
+87829,Afghanistan,Gulbadin Naib,7,0,1,0,0,0,1
+87829,Afghanistan,Nangeyalia Kharote,8,1,1,100,0,0,0
+87829,Australia,Travis Head,1,0,3,0,0,0,1
+87829,Australia,David Warner,2,3,8,37.5,0,0,1
+87829,Australia,Mitchell Marsh,3,12,9,133.33,2,0,1
+87829,Australia,Glenn Maxwell,4,59,41,143.9,6,3,1
+87829,Australia,Marcus Stoinis,5,11,17,64.71,1,0,1
+87829,Australia,Tim David,6,2,4,50,0,0,1
+87829,Australia,Matthew Wade,7,5,7,71.43,0,0,1
+87829,Australia,Pat Cummins,8,3,9,33.33,0,0,1
+87829,Australia,Ashton Agar,9,2,5,40,0,0,1
+87829,Australia,Adam Zampa,10,9,7,128.57,1,0,1
+87829,Australia,Josh Hazlewood,11,5,7,71.43,0,0,0
+87836,United States,Steven Taylor,1,12,13,92.31,2,0,1
+87836,United States,Andries Gous,2,8,5,160,0,1,1
+87836,United States,Nitish Kumar,3,30,24,125,1,2,1
+87836,United States,Aaron Jones,4,10,16,62.5,2,0,1
+87836,United States,Corey Anderson,5,29,28,103.57,0,1,1
+87836,United States,Milind Kumar,6,4,6,66.67,0,0,1
+87836,United States,Harmeet Singh,7,21,17,123.53,2,1,1
+87836,United States,Shadley van Schalkwyk,8,0,0,0,0,0,0
+87836,United States,Ali Khan,9,0,2,0,0,0,1
+87836,United States,Nosthush Kenjige,10,0,1,0,0,0,1
+87836,United States,Saurabh Netravalkar,11,0,1,0,0,0,1
+87836,England,Philip Salt,1,25,21,119.05,2,0,0
+87836,England,Jos Buttler,2,83,38,218.42,6,7,0
+87843,West Indies,Kyle Mayers,1,35,34,102.94,3,2,1
+87843,West Indies,Shai Hope,2,0,1,0,0,0,1
+87843,West Indies,Nicholas Pooran,3,1,3,33.33,0,0,1
+87843,West Indies,Roston Chase,4,52,42,123.81,3,2,1
+87843,West Indies,Rovman Powell,5,1,2,50,0,0,1
+87843,West Indies,Sherfane Rutherford,6,0,4,0,0,0,1
+87843,West Indies,Andre Russell,7,15,9,166.67,0,2,1
+87843,West Indies,Akeal Hosein,8,6,11,54.55,1,0,1
+87843,West Indies,Alzarri Joseph,9,11,7,157.14,0,1,0
+87843,West Indies,Gudakesh Motie,10,4,7,57.14,1,0,0
+87843,South Africa,Quinton de Kock,1,12,7,171.43,3,0,1
+87843,South Africa,Reeza Hendricks,2,0,1,0,0,0,1
+87843,South Africa,Aiden Markram,3,18,15,120,2,0,1
+87843,South Africa,Tristan Stubbs,4,29,27,107.41,4,0,1
+87843,South Africa,Heinrich Klaasen,5,22,10,220,3,1,1
+87843,South Africa,David Miller,6,4,14,28.57,0,0,1
+87843,South Africa,Marco Jansen,7,21,14,150,1,1,0
+87843,South Africa,Keshav Maharaj,8,2,6,33.33,0,0,1
+87843,South Africa,Kagiso Rabada,9,5,3,166.67,1,0,0
+87850,India,Rohit Sharma,1,92,41,224.39,7,8,1
+87850,India,Virat Kohli,2,0,5,0,0,0,1
+87850,India,Rishabh Pant,3,15,14,107.14,1,1,1
+87850,India,Suryakumar Yadav,4,31,16,193.75,3,2,1
+87850,India,Shivam Dube,5,28,22,127.27,2,1,1
+87850,India,Hardik Pandya,6,27,17,158.82,1,2,0
+87850,India,Ravindra Jadeja,7,9,5,180,0,1,0
+87850,Australia,David Warner,1,6,6,100,1,0,1
+87850,Australia,Travis Head,2,76,43,176.74,9,4,1
+87850,Australia,Mitchell Marsh,3,37,28,132.14,3,2,1
+87850,Australia,Glenn Maxwell,4,20,12,166.67,2,1,1
+87850,Australia,Marcus Stoinis,5,2,4,50,0,0,1
+87850,Australia,Tim David,6,15,11,136.36,1,1,1
+87850,Australia,Matthew Wade,7,1,2,50,0,0,1
+87850,Australia,Pat Cummins,8,11,7,157.14,0,1,0
+87850,Australia,Mitchell Starc,9,4,7,57.14,0,0,0
+87857,Afghanistan,Rahmanullah Gurbaz,1,43,55,78.18,3,1,1
+87857,Afghanistan,Ibrahim Zadran,2,18,29,62.07,1,0,1
+87857,Afghanistan,Azmatullah Omarzai,3,10,12,83.33,0,0,1
+87857,Afghanistan,Gulbadin Naib,4,4,3,133.33,1,0,1
+87857,Afghanistan,Mohammad Nabi,5,1,5,20,0,0,1
+87857,Afghanistan,Karim Janat,6,7,6,116.67,1,0,0
+87857,Afghanistan,Rashid Khan,7,19,10,190,0,3,0
+87857,Bangladesh,Litton Das,1,54,49,110.2,5,1,0
+87857,Bangladesh,Tanzid Hasan,2,0,3,0,0,0,1
+87857,Bangladesh,Najmul Hossain Shanto,3,5,5,100,1,0,1
+87857,Bangladesh,Shakib Al Hasan,4,0,1,0,0,0,1
+87857,Bangladesh,Soumya Sarkar,5,10,10,100,1,0,1
+87857,Bangladesh,Towhid Hridoy,6,14,9,155.56,2,0,1
+87857,Bangladesh,Mahmudullah,7,6,9,66.67,1,0,1
+87857,Bangladesh,Rishad Hossain,8,0,1,0,0,0,1
+87857,Bangladesh,Tanzim Hasan Sakib,9,3,10,30,0,0,1
+87857,Bangladesh,Taskin Ahmed,10,2,9,22.22,0,0,1
+87857,Bangladesh,Mustafizur Rahman,11,0,1,0,0,0,1
+87864,Afghanistan,Rahmanullah Gurbaz,1,0,3,0,0,0,1
+87864,Afghanistan,Ibrahim Zadran,2,2,5,40,0,0,1
+87864,Afghanistan,Gulbadin Naib,3,9,8,112.5,2,0,1
+87864,Afghanistan,Azmatullah Omarzai,4,10,12,83.33,2,0,1
+87864,Afghanistan,Mohammad Nabi,5,0,3,0,0,0,1
+87864,Afghanistan,Nangeyalia Kharote,6,2,7,28.57,0,0,1
+87864,Afghanistan,Karim Janat,7,8,13,61.54,1,0,1
+87864,Afghanistan,Rashid Khan,8,8,8,100,2,0,1
+87864,Afghanistan,Noor Ahmad,9,0,2,0,0,0,1
+87864,Afghanistan,Naveen-ul-Haq,10,2,8,25,0,0,1
+87864,Afghanistan,Fazalhaq Farooqi,11,2,2,100,0,0,0
+87864,South Africa,Quinton de Kock,1,5,8,62.5,1,0,1
+87864,South Africa,Reeza Hendricks,2,29,25,116,3,1,0
+87864,South Africa,Aiden Markram,3,23,21,109.52,4,0,0
+87871,India,Rohit Sharma,1,57,39,146.15,6,2,1
+87871,India,Virat Kohli,2,9,9,100,0,1,1
+87871,India,Rishabh Pant,3,4,6,66.67,0,0,1
+87871,India,Suryakumar Yadav,4,47,36,130.56,4,2,1
+87871,India,Hardik Pandya,5,23,13,176.92,1,2,1
+87871,India,Ravindra Jadeja,6,17,9,188.89,2,0,0
+87871,India,Shivam Dube,7,0,1,0,0,0,1
+87871,India,Axar Patel,8,10,6,166.67,0,1,1
+87871,India,Arshdeep Singh,9,1,1,100,0,0,0
+87871,England,Philip Salt,1,5,8,62.5,0,0,1
+87871,England,Jos Buttler,2,23,15,153.33,4,0,1
+87871,England,Moeen Ali,3,8,10,80,0,0,1
+87871,England,Jonny Bairstow,4,0,3,0,0,0,1
+87871,England,Harry Brook,5,25,19,131.58,3,0,1
+87871,England,Sam Curran,6,2,4,50,0,0,1
+87871,England,Liam Livingstone,7,11,16,68.75,0,0,1
+87871,England,Chris Jordan,8,1,5,20,0,0,1
+87871,England,Jofra Archer,9,21,15,140,1,2,1
+87871,England,Adil Rashid,10,2,2,100,0,0,1
+87871,England,Reece Topley,11,3,3,100,0,0,0
+87878,India,Rohit Sharma,1,9,5,180,2,0,1
+87878,India,Virat Kohli,2,76,59,128.81,6,2,1
+87878,India,Rishabh Pant,3,0,2,0,0,0,1
+87878,India,Suryakumar Yadav,4,3,4,75,0,0,1
+87878,India,Axar Patel,5,47,31,151.61,1,4,1
+87878,India,Shivam Dube,6,27,16,168.75,3,1,1
+87878,India,Hardik Pandya,7,5,2,250,1,0,0
+87878,India,Ravindra Jadeja,8,2,2,100,0,0,1
+87878,South Africa,Reeza Hendricks,1,4,5,80,1,0,1
+87878,South Africa,Quinton de Kock,2,39,31,125.81,4,1,1
+87878,South Africa,Aiden Markram,3,4,5,80,1,0,1
+87878,South Africa,Tristan Stubbs,4,31,21,147.62,3,1,1
+87878,South Africa,Heinrich Klaasen,5,52,27,192.59,2,5,1
+87878,South Africa,David Miller,6,21,17,123.53,1,1,1
+87878,South Africa,Marco Jansen,7,2,4,50,0,0,1
+87878,South Africa,Keshav Maharaj,8,2,7,28.57,0,0,0
+87878,South Africa,Kagiso Rabada,9,4,3,133.33,1,0,1
+87878,South Africa,Anrich Nortje,10,1,1,100,0,0,0

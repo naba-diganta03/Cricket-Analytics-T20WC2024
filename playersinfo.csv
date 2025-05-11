@@ -1,0 +1,305 @@
+Players Name,Country,Player ID,Captain,Role,Image ID,Batting Style,Bowling Style
+Aaron Johnson,Canada,28040,null,Batter,174146,Right-hand bat,Right-arm offbreak
+Aaron Jones,United States of America,14730,null,Batter,174146,Right-hand bat,Right-arm legbreak
+Aasif Sheikh,Nepal,12110,null,WK-Batter,174146,Right-hand bat,Right-arm medium
+Abbas Afridi,Pakistan,15034,null,Bowler,582350,Right-hand bat,Right-arm fast-medium
+Abinash Bohara,Nepal,14556,null,Bowler,174146,Right-hand bat,Right-arm medium
+Abrar Ahmed,Pakistan,12555,null,Bowler,616450,Right-hand bat,Right-arm legbreak
+Adam Zampa,Australia,8642,null,Bowler,619887,Right-hand bat,Right-arm legbreak
+Adil Rashid,England,1742,null,Bowler,617413,Right-hand bat,Right-arm legbreak
+Aiden Markram,South Africa,9582,TRUE,Batter,619858,Right-hand bat,Right-arm offbreak
+Akeal Hosein,West Indies,8435,null,Bowler,244660,Left-hand bat,Left-arm orthodox
+Alei Nao,Papa New Guinea,8475,null,Bowler,174146,Right-hand bat,Right-arm medium
+Ali Khan,United States of America,11450,null,Bowler,599389,Right-hand bat,Right-arm fast-medium
+Alpesh Ramjani,Uganda,15009,null,Bowling Allrounder,174146,Left-hand bat,Left-arm orthodox
+Alzarri Joseph,West Indies,11220,null,Bowler,599386,Right-hand bat,Right-arm fast
+Andre Russell,West Indies,7736,null,Bowling Allrounder,170821,Right-hand bat,Right-arm fast
+Andrew Balbirnie,Ireland,6710,null,Batter,244616,Right-hand bat,Right-arm offbreak
+Andries Gous,United States of America,11959,null,WK-Batter,174146,Right-hand bat,null
+Angelo Mathews,Sri Lanka,1629,null,Batting Allrounder,170706,Right-hand bat,Right-arm fast-medium
+Anil Sah,Nepal,12112,null,Batting Allrounder,155391,Right-hand bat,Right-arm offbreak
+Anrich Nortje,South Africa,11427,null,Bowler,244754,Right-hand bat,Right-arm fast
+Aqib Ilyas,Oman,12235,TRUE,Batter,174146,Right-hand bat,Right-arm offbreak
+Arshdeep Singh,India,13217,null,Bowler,616527,Left-hand bat,Left-arm fast-medium
+Aryan Dutt,Netherlands,19532,null,Bowler,352477,Right-hand bat,Right-arm offbreak
+Ashton Agar,Australia,8508,null,Bowling Allrounder,244781,Left-hand bat,Left-arm orthodox
+Assad Vala,Papa New Guinea,10120,TRUE,Batting Allrounder,215724,Left-hand bat,Right-arm offbreak
+Axar Patel,India,8808,null,Bowling Allrounder,616521,Left-hand bat,Left-arm orthodox
+Ayaan Khan,Oman,11033,null,Bowling Allrounder,174146,Left-hand bat,Left-arm orthodox
+Azam Khan,Pakistan,14558,null,WK-Batter,174146,Right-hand bat,null
+Azmatullah Omarzai,Afghanistan,13214,null,Bowling Allrounder,616549,Right-hand bat,Right-arm fast-medium
+Babar Azam,Pakistan,8359,TRUE,Batter,616440,Right-hand bat,Right-arm offbreak
+Barry McCarthy,Ireland,10451,null,Bowler,244623,Right-hand bat,Right-arm fast-medium
+Bas de Leede,Netherlands,13273,null,Batting Allrounder,352467,Right-hand bat,Right-arm fast-medium
+Ben Duckett,England,8502,null,Batter,617403,Left-hand bat,Right-arm offbreak
+Ben Shikongo,Namibia,13444,null,Bowler,244633,Right-hand bat,Right-arm fast-medium
+Benjamin White,Ireland,11124,null,Bowler,174146,Right-hand bat,Right-arm legbreak
+Bernard Scholtz,Namibia,10769,null,Bowler,244629,Right-hand bat,Left-arm orthodox
+Bilal Hassan,Uganda,21863,null,Bowler,174146,Right-hand bat,Right-arm fast-medium
+Bilal Khan,Oman,10824,null,Bowler,154943,Left-hand bat,Left-arm fast-medium
+Bjorn Fortuin,South Africa,10676,null,Bowler,244752,Right-hand bat,Left-arm orthodox
+Brad Wheal,Scotland,10389,null,Bowler,244685,Right-hand bat,Right-arm fast-medium
+Bradley Currie,Scotland,24701,null,Bowler,174146,Right-hand bat,Left-arm fast-medium
+Brandon King,West Indies,9791,null,Batter,244662,Right-hand bat,null
+Brandon McMullen,Scotland,31911,null,Batting Allrounder,244683,Right-hand bat,Right-arm medium
+Brian Masaba,Uganda,17035,TRUE,Bowler,174146,Right-hand bat,Right-arm legbreak
+Cameron Green,Australia,12225,null,Batting Allrounder,352451,Right-hand bat,Right-arm fast-medium
+Chad Soper,Papa New Guinea,8477,null,Bowler,215778,Right-hand bat,Right-arm medium
+Charith Asalanka,Sri Lanka,10934,null,Batting Allrounder,351873,Left-hand bat,Right-arm offbreak
+Charles Amini,Papa New Guinea,10428,null,Batting Allrounder,215770,Left-hand bat,Right-arm legbreak
+Charlie Tear,Scotland,23156,null,WK-Batter,174146,Right-hand bat,null
+Chris Greaves,Scotland,14541,null,Bowler,244682,Right-hand bat,Right-arm legbreak
+Chris Jordan,England,6532,null,Bowler,244783,Right-hand bat,Right-arm fast-medium
+Christopher Sole,Scotland,9925,null,Bowler,244684,Right-hand bat,Right-arm fast-medium
+Corey Anderson,United States of America,8982,null,Batting Allrounder,156103,Left-hand bat,Left-arm fast-medium
+Cosmas Kyewuta,Uganda,19512,null,Bowler,174146,Right-hand bat,Right-arm medium
+Craig Young,Ireland,6575,null,Bowler,191068,Right-hand bat,Right-arm fast-medium
+Curtis Campher,Ireland,18143,null,Bowling Allrounder,244625,Right-hand bat,Left-arm medium
+Daryl Mitchell,New Zealand,10713,null,Batting Allrounder,616424,Right-hand bat,Right-arm medium
+Dasun Shanaka,Sri Lanka,8422,null,Batting Allrounder,351876,Right-hand bat,Right-arm medium
+David Miller,South Africa,6349,null,Batter,619861,Left-hand bat,null
+David Warner,Australia,1739,null,Batter,352449,Left-hand bat,null
+David Wiese,Namibia,8589,null,Batting Allrounder,244626,Right-hand bat,Right-arm fast-medium
+Devon Conway,New Zealand,9838,null,WK-Batter,616434,Left-hand bat,Right-arm medium
+Dhananjaya de Silva,Sri Lanka,7872,null,Batting Allrounder,351878,Right-hand bat,Right-arm offbreak
+Dillon Heyliger,Canada,13567,null,Bowler,174146,Right-hand bat,Right-arm medium
+Dilpreet Bajwa,Canada,47248,null,Bowling Allrounder,174146,Right-hand bat,Right-arm medium
+Dilshan Madushanka,Sri Lanka,15067,null,Bowler,351880,Right-hand bat,Left-arm fast-medium
+Dinesh Nakrani,Uganda,19517,null,Batting Allrounder,174146,Left-hand bat,Left-arm medium
+Dipendra Singh Airee,Nepal,11155,null,Batting Allrounder,174146,Right-hand bat,Right-arm offbreak
+Dunith Wellalage,Sri Lanka,14251,null,Bowling Allrounder,351882,Left-hand bat,Left-arm orthodox
+Dushmantha Chameera,Sri Lanka,8393,null,Bowler,244665,Right-hand bat,Right-arm fast
+Dylan Leicher,Namibia,24692,null,Batting Allrounder,174146,Right-hand bat,Right-arm medium
+Fakhar Zaman,Pakistan,10863,null,Batter,616447,Left-hand bat,Left-arm orthodox
+Fareed Ahmad Malik,Afghanistan,9848,null,Bowler,616563,Left-hand bat,Left-arm fast-medium
+Fayyaz Butt,Oman,14023,null,Bowler,174146,Right-hand bat,Right-arm fast-medium
+Fazalhaq Farooqi,Afghanistan,14282,null,Bowler,616558,Right-hand bat,Left-arm fast-medium
+Finn Allen,New Zealand,11172,null,Batter,594254,Right-hand bat,null
+Frank Nsubuga,Uganda,17091,null,Bowler,174146,Right-hand bat,Right-arm offbreak
+Fred Achelam,Uganda,17082,null,WK-Batter,174146,Right-hand bat,null
+Gareth Delany,Ireland,13983,null,Batting Allrounder,244628,Right-hand bat,Right-arm legbreak
+George Dockrell,Ireland,6329,null,Bowling Allrounder,244638,Right-hand bat,Left-arm orthodox
+George Munsey,Scotland,10103,null,Batter,244688,Left-hand bat,null
+Gerald Coetzee,South Africa,13320,null,Bowler,597795,Right-hand bat,Right-arm fast
+Gerhard Erasmus,Namibia,7973,TRUE,Batting Allrounder,244631,Right-hand bat,Right-arm legbreak
+Glenn Maxwell,Australia,7662,null,Batting Allrounder,619879,Right-hand bat,Right-arm offbreak
+Glenn Phillips,New Zealand,10693,null,Batting Allrounder,616433,Right-hand bat,Right-arm offbreak
+Graham Hume,Ireland,19178,null,Bowler,174146,Left-hand bat,Right-arm fast-medium
+Gudakesh Motie,West Indies,9793,null,Bowling Allrounder,599390,Left-hand bat,Left-arm orthodox
+Gulbadin Naib,Afghanistan,8030,null,Batting Allrounder,616548,Right-hand bat,Right-arm fast-medium
+Gulsan Jha,Nepal,20146,null,Bowler,174146,Left-hand bat,Right-arm medium
+Hardik Pandya,India,9647,null,Batting Allrounder,616519,Right-hand bat,Right-arm fast-medium
+Haris Rauf,Pakistan,14561,null,Bowler,616449,Right-hand bat,Right-arm fast
+Harmeet Singh,United States of America,8426,null,Bowling Allrounder,156177,Left-hand bat,Left-arm orthodox
+Harry Brook,England,12201,null,Batter,617402,Right-hand bat,Right-arm medium
+Harry Tector,Ireland,11130,null,Batter,244641,Right-hand bat,Right-arm offbreak
+Hazratullah Zazai,Afghanistan,12068,null,Batter,244750,Left-hand bat,Left-arm orthodox
+Heinrich Klaasen,South Africa,10209,null,WK-Batter,619866,Right-hand bat,Right-arm offbreak
+Henry Ssenyondo,Uganda,17073,null,Bowler,174146,Right-hand bat,Left-arm orthodox
+Hila Vare,Papa New Guinea,27842,null,WK-Batter,174146,Left-hand bat,null
+Hiri Hiri,Papa New Guinea,9906,null,Batter,215768,Right-hand bat,Right-arm offbreak
+Ibrahim Zadran,Afghanistan,12173,null,Batter,616547,Right-hand bat,Right-arm fast-medium
+Iftikhar Ahmed,Pakistan,10799,null,Batting Allrounder,352421,Right-hand bat,Right-arm offbreak
+Imad Wasim,Pakistan,10408,null,Bowling Allrounder,170782,Left-hand bat,Left-arm orthodox
+Ish Sodhi,New Zealand,8561,null,Bowler,351602,Right-hand bat,Right-arm legbreak
+JJ Smit,Namibia,9885,null,Bowling Allrounder,244634,Right-hand bat,Left-arm fast-medium
+JP Kotze,Namibia,9892,null,WK-Batter,154712,Left-hand bat,null
+Jack Brassell,Namibia,53954,null,Bowler,174146,Right-hand bat,Right-arm medium
+Jack Gardner,Papa New Guinea,20232,null,Batter,215783,Right-hand bat,null
+Jack Jarvis,Scotland,23121,null,Bowling Allrounder,174146,Right-hand bat,Right-arm fast-medium
+Jaker Ali,Bangladesh,11088,null,WK-Batter,616470,Right-hand bat,null
+James Neesham,New Zealand,8983,null,Batting Allrounder,597793,Left-hand bat,Right-arm fast-medium
+Jan Frylinck,Namibia,8522,null,Bowling Allrounder,244639,Left-hand bat,Left-arm fast-medium
+Jasdeep Singh,United States of America,14734,null,Bowler,174146,Right-hand bat,Right-arm medium
+Jasprit Bumrah,India,9311,null,Bowler,591949,Right-hand bat,Right-arm fast
+Jeremy Gordon,Canada,8378,null,Bowler,157994,Right-hand bat,Right-arm fast-medium
+Jofra Archer,England,11540,null,Bowler,617429,Right-hand bat,Right-arm fast
+John Kariko,Papa New Guinea,23706,null,Bowler,174146,Left-hand bat,null
+Johnson Charles,West Indies,8101,null,WK-Batter,244679,Right-hand bat,null
+Jonny Bairstow,England,6507,null,WK-Batter,351851,Right-hand bat,Right-arm medium
+Jos Buttler,England,2258,TRUE,WK-Batter,617407,Right-hand bat,null
+Josh Hazlewood,Australia,6258,null,Bowler,352459,Left-hand bat,Right-arm fast-medium
+Josh Inglis,Australia,10637,null,WK-Batter,619881,Right-hand bat,null
+Joshua Little,Ireland,11128,null,Bowler,244649,Right-hand bat,Left-arm fast-medium
+Juma Miyagi,Uganda,23236,null,Bowler,174146,Right-hand bat,Right-arm medium
+Junaid Siddiqui,Canada,8025,null,Batting Allrounder,157111,Right-hand bat,Right-arm legbreak
+Kabua Morea,Papa New Guinea,8479,null,Bowler,215782,Right-hand bat,Left-arm medium
+Kagiso Rabada,South Africa,9585,null,Bowler,619869,Left-hand bat,Right-arm fast
+Kaleem Sana,Canada,15134,null,Bowler,174146,Right-hand bat,Left-arm fast-medium
+Kaleemullah,Oman,12245,null,Bowler,174146,Right-hand bat,Right-arm medium
+Kamal Singh Airee,Nepal,12138,null,Bowling Allrounder,174146,Right-hand bat,Right-arm medium
+Kamindu Mendis,Sri Lanka,10940,null,Batting Allrounder,155713,Left-hand bat,Right-arm offbreak
+Kane Williamson,New Zealand,6326,TRUE,Batter,616418,Right-hand bat,Right-arm offbreak
+Karan KC,Nepal,10203,null,Bowling Allrounder,155374,Right-hand bat,Right-arm medium
+Karim Janat,Afghanistan,11077,null,Bowling Allrounder,226321,Right-hand bat,Right-arm fast-medium
+Kashyap Prajapati,Oman,20347,null,Batter,174146,Right-hand bat,Right-arm offbreak
+Kenneth Waiswa,Uganda,17064,null,Batting Allrounder,174146,Right-hand bat,Right-arm medium
+Keshav Maharaj,South Africa,9720,null,Bowler,619870,Right-hand bat,Left-arm orthodox
+Khalid Kail,Oman,55916,null,Batter,174146,Right-hand bat,null
+Kiplin Doriga,Papa New Guinea,9903,null,WK-Batter,215765,Right-hand bat,null
+Kuldeep Yadav,India,8292,null,Bowler,616525,Left-hand bat,Left-arm wrist-spin
+Kusal Mendis,Sri Lanka,9494,null,WK-Batter,594291,Right-hand bat,null
+Kushal Bhurtel,Nepal,11290,null,Batter,174146,Right-hand bat,Right-arm legbreak
+Kushal Malla,Nepal,15400,null,Batting Allrounder,350320,Left-hand bat,Left-arm orthodox
+Kyle Klein,Netherlands,51018,null,Bowler,174146,Right-hand bat,Right-arm medium
+Kyle Mayers,West Indies,8440,null,Batting Allrounder,244721,Left-hand bat,Right-arm medium
+Lalit Rajbanshi,Nepal,13626,null,Bowler,155384,Right-hand bat,Left-arm orthodox
+Lega Siaka,Papa New Guinea,8467,null,Batter,151642,Right-hand bat,Right-arm fast-medium
+Liam Livingstone,England,10045,null,Batting Allrounder,617405,Right-hand bat,Right-arm legbreak
+Litton Das,Bangladesh,8540,null,WK-Batter,351896,Right-hand bat,null
+Lockie Ferguson,New Zealand,10692,null,Bowler,616422,Right-hand bat,Right-arm fast
+Logan van Beek,Netherlands,9983,null,Bowler,352474,Right-hand bat,Right-arm fast-medium
+Lorcan Tucker,Ireland,11131,null,WK-Batter,244650,Right-hand bat,null
+Mahedi Hasan,Bangladesh,11871,null,Batting Allrounder,351902,Right-hand bat,Right-arm offbreak
+Maheesh Theekshana,Sri Lanka,18504,null,Bowler,594214,Right-hand bat,Right-arm offbreak
+Mahmudullah,Bangladesh,1121,null,Batting Allrounder,616462,Right-hand bat,Right-arm offbreak
+Malan Kruger,Namibia,9893,null,Batter,155059,Right-hand bat,null
+Marco Jansen,South Africa,14565,null,Bowling Allrounder,619862,Right-hand bat,Left-arm fast
+Marcus Stoinis,Australia,8989,null,Batting Allrounder,352453,Right-hand bat,Right-arm medium
+Mark Adair,Ireland,10449,null,Bowler,244651,Right-hand bat,Right-arm fast
+Mark Chapman,New Zealand,9976,null,Batter,616435,Left-hand bat,Left-arm orthodox
+Mark Watt,Scotland,9928,null,Bowler,244687,Left-hand bat,Left-arm orthodox
+Mark Wood,England,8383,null,Bowler,617415,Right-hand bat,Right-arm fast
+Matheesha Pathirana,Sri Lanka,16458,null,Bowler,351888,Right-hand bat,Right-arm fast
+Matt Henry,New Zealand,9067,null,Bowler,616431,Right-hand bat,Right-arm fast-medium
+Matthew Cross,Scotland,9365,null,WK-Batter,244690,Right-hand bat,null
+Matthew Wade,Australia,1649,null,WK-Batter,244799,Left-hand bat,null
+Max ODowd,Netherlands,10424,null,Batter,352470,Right-hand bat,Right-arm offbreak
+Mehran Khan,Oman,10464,null,Batter,154944,Right-hand bat,Right-arm medium
+Michael Bracewell,New Zealand,9551,null,Batting Allrounder,616430,Left-hand bat,Right-arm offbreak
+Michael Jones,Scotland,13527,null,Batter,244693,Right-hand bat,Right-arm offbreak
+Michael Leask,Scotland,9383,null,Batting Allrounder,244692,Right-hand bat,Right-arm offbreak
+Michael Levitt,Netherlands,45659,null,Batting Allrounder,174146,Right-hand bat,Right-arm fast
+Michael van Lingen,Namibia,11136,null,Bowling Allrounder,244637,Left-hand bat,Left-arm medium
+Milind Kumar,United States of America,8773,null,Batting Allrounder,174146,Right-hand bat,Right-arm offbreak
+Mitchell Marsh,Australia,6250,TRUE,Batting Allrounder,352452,Right-hand bat,Right-arm fast-medium
+Mitchell Santner,New Zealand,10100,null,Bowling Allrounder,616427,Left-hand bat,Left-arm orthodox
+Mitchell Starc,Australia,7710,null,Bowler,352462,Left-hand bat,Left-arm fast
+Moeen Ali,England,6692,null,Batting Allrounder,597794,Left-hand bat,Right-arm offbreak
+Mohammad Amir,Pakistan,1917,null,Bowler,170813,Left-hand bat,Left-arm fast-medium
+Mohammad Ishaq,Afghanistan,14195,null,WK-Batter,174146,Right-hand bat,null
+Mohammad Nabi,Afghanistan,3007,null,Bowling Allrounder,616550,Right-hand bat,Right-arm offbreak
+Mohammad Nadeem,Oman,10459,null,Bowling Allrounder,174146,Right-hand bat,Right-arm fast-medium
+Mohammad Rizwan,Pakistan,9468,null,WK-Batter,616445,Right-hand bat,null
+Mohammed Siraj,India,10808,null,Bowler,591952,Right-hand bat,Right-arm fast
+Monank Patel,United States of America,14732,TRUE,WK-Batter,174146,Right-hand bat,null
+Mujeeb Ur Rahman,Afghanistan,12071,null,Bowler,352446,Right-hand bat,Right-arm offbreak
+Mustafizur Rahman,Bangladesh,9863,null,Bowler,616463,Left-hand bat,Left-arm fast-medium
+Najibullah Zadran,Afghanistan,8375,null,Batter,352434,Left-hand bat,Right-arm offbreak
+Najmul Hossain Shanto,Bangladesh,9864,TRUE,Batter,616472,Left-hand bat,Right-arm offbreak
+Nangeyalia Kharote,Afghanistan,22956,null,Bowling Allrounder,616554,Left-hand bat,Left-arm orthodox
+Naseem Khushi,Oman,12243,null,WK-Batter,174146,Right-hand bat,null
+Naseem Shah,Pakistan,14247,null,Bowler,616439,Right-hand bat,Right-arm fast
+Nathan Ellis,Australia,15480,null,Bowler,619885,Right-hand bat,Right-arm fast-medium
+Naveen-ul-Haq,Afghanistan,11289,null,Bowler,352447,Right-hand bat,Right-arm fast-medium
+Navneet Dhaliwal,Canada,13565,null,Batting Allrounder,174146,Right-hand bat,Right-arm fast-medium
+Neil Rock,Ireland,13309,null,WK-Batter,174146,Left-hand bat,null
+Nicholas Kirton,Canada,13568,null,Batting Allrounder,174146,Left-hand bat,null
+Nicholas Pooran,West Indies,9406,null,WK-Batter,244722,Left-hand bat,Right-arm offbreak
+Nikhil Dutta,Canada,9230,null,Bowler,155655,Right-hand bat,Right-arm offbreak
+Nikolaas Davin,Namibia,10780,null,Batter,174146,Right-hand bat,Right-arm legbreak
+Nisarg Patel,United States of America,15475,null,Bowling Allrounder,174146,Right-hand bat,Left-arm orthodox
+Nitish Kumar,United States of America,6474,null,Batter,156268,Right-hand bat,Right-arm offbreak
+Noor Ahmad,Afghanistan,15452,null,Bowler,616569,Right-hand bat,Left-arm wrist-spin
+Norman Vanua,Papa New Guinea,8480,null,Bowler,215767,Right-hand bat,Right-arm medium
+Nosthush Kenjige,United States of America,14729,null,Bowler,174146,Right-hand bat,Left-arm orthodox
+Nuwan Thushara,Sri Lanka,18509,null,Bowler,226338,Right-hand bat,Right-arm fast-medium
+Obed McCoy,West Indies,11221,null,Bowler,244723,Left-hand bat,Left-arm fast-medium
+Ollie Hairs,Scotland,7887,null,Batter,174146,Left-hand bat,Right-arm offbreak
+Ottneil Baartman,South Africa,13100,null,Bowler,597835,Right-hand bat,Right-arm fast-medium
+Pargat Singh,Canada,10655,null,Batting Allrounder,174146,Right-hand bat,Right-arm offbreak
+Pat Cummins,Australia,8095,null,Bowler,352460,Right-hand bat,Right-arm fast
+Pathum Nissanka,Sri Lanka,13682,null,Batter,351889,Right-hand bat,null
+Paul Stirling,Ireland,1114,TRUE,Batting Allrounder,244652,Right-hand bat,Right-arm offbreak
+Paul van Meekeren,Netherlands,9357,null,Bowler,352476,Right-hand bat,Right-arm fast-medium
+Peter-Daniel Blignaut,Namibia,53947,null,Bowler,174146,Right-hand bat,Left-arm orthodox
+Philip Salt,England,10479,null,WK-Batter,617408,Right-hand bat,Right-arm offbreak
+Pratik Athavale,Oman,51627,null,WK-Batter,174146,Right-hand bat,Right-arm offbreak
+Pratis GC,Nepal,15396,null,Bowling Allrounder,174146,Right-hand bat,Left-arm medium
+Quinton de Kock,South Africa,8520,null,WK-Batter,594326,Left-hand bat,null
+Rachin Ravindra,New Zealand,11177,null,Batting Allrounder,351609,Left-hand bat,Left-arm orthodox
+Rafiullah,Oman,34508,null,Batting Allrounder,174146,Right-hand bat,Right-arm medium
+Rahmanullah Gurbaz,Afghanistan,13213,null,WK-Batter,616556,Right-hand bat,null
+Rashid Khan,Afghanistan,10738,TRUE,Bowling Allrounder,616553,Right-hand bat,Right-arm legbreak
+Ravinderpal Singh,Canada,14807,null,Batter,174146,Right-hand bat,Right-arm offbreak
+Ravindra Jadeja,India,587,null,Bowling Allrounder,616520,Left-hand bat,Left-arm orthodox
+Rayyan Pathan,Canada,9229,null,Batting Allrounder,174146,Right-hand bat,Right-arm fast-medium
+Reece Topley,England,8349,null,Bowler,578436,Right-hand bat,Left-arm fast-medium
+Reeza Hendricks,South Africa,9491,null,Batter,594193,Right-hand bat,Right-arm offbreak
+Riazat Ali Shah,Uganda,19507,null,Batting Allrounder,174146,Right-hand bat,Right-arm medium
+Richie Berrington,Scotland,1398,TRUE,Batting Allrounder,244691,Right-hand bat,Right-arm fast-medium
+Rishabh Pant,India,10744,null,WK-Batter,616524,Left-hand bat,null
+Rishad Hossain,Bangladesh,13794,null,Bowler,616457,Right-hand bat,Right-arm legbreak
+Rishiv Ragav Joshi,Canada,13425,null,Bowler,156279,Right-hand bat,Left-arm fast-medium
+Robinson Obuya,Uganda,46048,null,Batter,174146,Right-hand bat,null
+Roger Mukasa,Uganda,17053,null,WK-Batter,174146,Right-hand bat,Right-arm offbreak
+Rohit Paudel,Nepal,12140,TRUE,Batting Allrounder,174146,Right-hand bat,Right-arm offbreak
+Rohit Sharma,India,576,TRUE,Batter,616514,Right-hand bat,Right-arm offbreak
+Romario Shepherd,West Indies,13646,null,Bowling Allrounder,593798,Right-hand bat,Right-arm fast-medium
+Ronak Patel,Uganda,19506,null,Batter,174146,Right-hand bat,Left-arm orthodox
+Ross Adair,Ireland,36594,null,Batter,174146,Right-hand bat,Left-arm orthodox
+Roston Chase,West Indies,11543,null,Bowling Allrounder,593804,Right-hand bat,Right-arm offbreak
+Rovman Powell,West Indies,11445,TRUE,Batter,244832,Right-hand bat,Right-arm fast-medium
+Ruben Trumpelmann,Namibia,14431,null,Bowler,244642,Right-hand bat,Left-arm fast
+Ryan Rickelton,South Africa,13070,null,WK-Batter,619865,Left-hand bat,null
+Saad Bin Zafar,Canada,6746,TRUE,Bowling Allrounder,174146,Left-hand bat,Left-arm orthodox
+Sadeera Samarawickrama,Sri Lanka,9495,null,WK-Batter,351890,Right-hand bat,null
+Safyaan Sharif,Scotland,7966,null,Bowler,244694,Right-hand bat,Right-arm fast-medium
+Sagar Dhakal,Nepal,14219,null,Bowler,174146,Right-hand bat,Left-arm orthodox
+Saim Ayub,Pakistan,14241,null,Batter,582345,Left-hand bat,Right-arm offbreak
+Sam Curran,England,10420,null,Bowling Allrounder,351581,Left-hand bat,Left-arm fast-medium
+Sandeep Lamichhane,Nepal,11158,null,Bowler,226314,Right-hand bat,Right-arm legbreak
+Sanju Samson,India,8271,null,WK-Batter,226289,Right-hand bat,null
+Saqib Zulfiqar,Netherlands,12612,null,Bowling Allrounder,352465,Right-hand bat,Right-arm legbreak
+Saurabh Netravalkar,United States of America,9748,null,Bowler,152616,Right-hand bat,Left-arm fast-medium
+Scott Edwards,Netherlands,13272,TRUE,WK-Batter,352472,Right-hand bat,null
+Semo Kamea,Papa New Guinea,13512,null,Bowler,174146,Left-hand bat,Left-arm fast-medium
+Sese Bau,Papa New Guinea,8470,null,Batting Allrounder,215766,Left-hand bat,Right-arm offbreak
+Shadab Khan,Pakistan,11186,null,Bowling Allrounder,352424,Right-hand bat,Right-arm legbreak
+Shadley van Schalkwyk,United States of America,2245,null,Bowling Allrounder,174146,Left-hand bat,Right-arm fast-medium
+Shaheen Afridi,Pakistan,12160,null,Bowler,616446,Left-hand bat,Left-arm fast-medium
+Shai Hope,West Indies,10384,null,WK-Batter,170814,Right-hand bat,null
+Shakeel Ahmed,Oman,50383,null,Bowler,174146,Left-hand bat,Left-arm orthodox
+Shakib Al Hasan,Bangladesh,544,null,Batting Allrounder,351919,Left-hand bat,Left-arm orthodox
+Shamar Joseph,West Indies,50458,null,Bowler,597839,Left-hand bat,Right-arm fast
+Shayan Jahangir,United States of America,18155,null,WK-Batter,174146,Right-hand bat,Right-arm medium
+Sherfane Rutherford,West Indies,13748,null,Batting Allrounder,594230,Left-hand bat,Right-arm fast-medium
+Shimron Hetmyer,West Indies,9789,null,Batter,171232,Left-hand bat,null
+Shivam Dube,India,11195,null,Batting Allrounder,593805,Left-hand bat,Right-arm medium
+Shoaib Khan,Oman,20244,null,Batter,174146,Right-hand bat,Right-arm medium
+Shoriful Islam,Bangladesh,13791,null,Bowler,351921,Left-hand bat,Left-arm fast-medium
+Shreyas Movva,Canada,24096,null,WK-Batter,174146,Right-hand bat,null
+Simon Ssesazi,Uganda,21868,null,Batter,174146,Left-hand bat,Right-arm medium
+Sompal Kami,Nepal,9970,null,Bowling Allrounder,155415,Right-hand bat,Right-arm fast-medium
+Soumya Sarkar,Bangladesh,8233,null,Batter,616460,Left-hand bat,Right-arm medium
+Steven Taylor,United States of America,8670,null,Batting Allrounder,157038,Left-hand bat,Right-arm offbreak
+Sundeep Jora,Nepal,14220,null,Batter,174146,Right-hand bat,null
+Suryakumar Yadav,India,7915,null,Batter,352481,Right-hand bat,Right-arm offbreak
+Sybrand Engelbrecht,Netherlands,2232,null,Batting Allrounder,352464,Right-hand bat,Right-arm offbreak
+Tabraiz Shamsi,South Africa,10173,null,Bowler,619871,Right-hand bat,Left-arm wrist-spin
+Tangeni Lungameni,Namibia,11437,null,Bowler,244645,Right-hand bat,Left-arm medium
+Tanvir Islam,Bangladesh,13260,null,Bowler,174146,Left-hand bat,Left-arm orthodox
+Tanzid Hasan,Bangladesh,14205,null,Batter,616469,Left-hand bat,null
+Tanzim Hasan Sakib,Bangladesh,15274,null,Bowler,616464,Right-hand bat,Right-arm fast-medium
+Taskin Ahmed,Bangladesh,8548,null,Bowler,616466,Left-hand bat,Right-arm fast
+Teja Nidamanuru,Netherlands,13336,null,Batter,352469,Right-hand bat,Right-arm offbreak
+Tim David,Australia,13169,null,Batter,594298,Right-hand bat,Right-arm offbreak
+Tim Pringle,Netherlands,15205,null,Bowling Allrounder,244612,Right-hand bat,Left-arm orthodox
+Tim Southee,New Zealand,1057,null,Bowler,601546,Right-hand bat,Right-arm fast-medium
+Tom Hartley,England,18199,null,Bowler,380064,Left-hand bat,Left-arm orthodox
+Tony Ura,Papa New Guinea,10115,null,WK-Batter,151660,Right-hand bat,null
+Towhid Hridoy,Bangladesh,13223,null,Batter,616468,Right-hand bat,Right-arm offbreak
+Travis Head,Australia,8497,null,Batter,619876,Left-hand bat,Right-arm offbreak
+Trent Boult,New Zealand,8117,null,Bowler,351612,Right-hand bat,Left-arm fast-medium
+Tristan Stubbs,South Africa,19243,null,WK-Batter,619868,Right-hand bat,Right-arm offbreak
+Usman Khan,Pakistan,19013,null,WK-Batter,616437,Right-hand bat,Right-arm offbreak
+Vikramjit Singh,Netherlands,15473,null,Batter,352463,Left-hand bat,Right-arm medium
+Virat Kohli,India,1413,null,Batter,616517,Right-hand bat,Right-arm medium
+Vivian Kingma,Netherlands,9391,null,Bowler,155443,Right-hand bat,Right-arm medium
+Wanindu Hasaranga,Sri Lanka,10926,TRUE,Bowling Allrounder,244676,Right-hand bat,Right-arm legbreak
+Wesley Barresi,Netherlands,6707,null,WK-Batter,352473,Right-hand bat,Right-arm offbreak
+Will Jacks,England,12258,null,Batting Allrounder,594344,Right-hand bat,Right-arm offbreak
+Yashasvi Jaiswal,India,13940,null,Batter,591942,Left-hand bat,Right-arm legbreak
+Yuzvendra Chahal,India,7910,null,Bowler,244981,Right-hand bat,Right-arm legbreak
+Zane Green,Namibia,9890,null,WK-Batter,244648,Left-hand bat,null
+Zeeshan Maqsood,Oman,10466,null,Batting Allrounder,174146,Left-hand bat,Left-arm orthodox
